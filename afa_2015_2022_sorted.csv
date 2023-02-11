@@ -1,0 +1,2822 @@
+equipo_local,equipo_visitante,goles_local,goles_visitante,resultado
+Velez,Aldosivi,2,0,L
+Racing Club,Rosario Central,0,1,V
+San Lorenzo,Colon,2,0,L
+Gimnasia (LP),Def y Justicia,0,1,V
+Godoy Cruz,San Martin (SJ),1,1,E
+Newells,Independiente,2,3,V
+Banfield,Temperley,0,1,V
+Crucero (M),Tigre,0,0,E
+Quilmes,Lanus,0,1,V
+Union,Huracan,1,0,L
+Boca Juniors,Olimpo,3,1,L
+Argentinos,Atl Rafaela,2,0,L
+Sarmiento (J),River Plate,1,4,V
+Arsenal,Estudiantes (LP),0,1,V
+Belgrano,Nueva Chicago,3,1,L
+Atl Rafaela,Banfield,1,4,V
+Huracan,Arsenal,1,0,L
+Estudiantes (LP),Godoy Cruz,2,1,L
+Rosario Central,Tigre,2,1,L
+Olimpo,Racing Club,0,0,E
+Velez,Crucero (M),2,1,L
+San Martin (SJ),Gimnasia (LP),1,1,E
+Aldosivi,Newells,0,1,V
+Nueva Chicago,Union,2,2,E
+Independiente,Sarmiento (J),1,1,E
+River Plate,Quilmes,2,2,E
+Colon,Argentinos,1,1,E
+Temperley,Boca Juniors,0,2,V
+Lanus,Belgrano,0,0,E
+Def y Justicia,San Lorenzo,1,2,V
+Arsenal,Nueva Chicago,1,1,E
+Godoy Cruz,Huracan,2,1,L
+Tigre,Olimpo,1,0,L
+Crucero (M),Rosario Central,0,1,V
+Union,Lanus,1,1,E
+Quilmes,Independiente,1,2,V
+San Lorenzo,San Martin (SJ),1,2,V
+Gimnasia (LP),Estudiantes (LP),1,3,V
+Boca Juniors,Atl Rafaela,1,0,L
+Argentinos,Def y Justicia,1,0,L
+Racing Club,Temperley,2,1,L
+Belgrano,River Plate,1,2,V
+Sarmiento (J),Aldosivi,2,2,E
+Banfield,Colon,0,0,E
+Newells,Velez,0,0,E
+Huracan,Gimnasia (LP),1,1,E
+Atl Rafaela,Racing Club,1,1,E
+Nueva Chicago,Godoy Cruz,0,2,V
+Olimpo,Rosario Central,1,3,V
+Aldosivi,Quilmes,1,1,E
+Independiente,Belgrano,1,2,V
+Newells,Crucero (M),2,0,L
+Velez,Sarmiento (J),1,1,E
+Lanus,Arsenal,0,0,E
+Def y Justicia,Banfield,1,0,L
+River Plate,Union,2,2,E
+San Martin (SJ),Argentinos,0,0,E
+Colon,Boca Juniors,1,1,E
+Temperley,Tigre,1,1,E
+Estudiantes (LP),San Lorenzo,0,2,V
+Crucero (M),Olimpo,0,0,E
+Racing Club,Colon,4,1,L
+Banfield,San Martin (SJ),3,2,L
+Boca Juniors,Def y Justicia,2,1,L
+Union,Independiente,1,1,E
+Sarmiento (J),Newells,1,2,V
+Quilmes,Velez,2,1,L
+Argentinos,Estudiantes (LP),2,2,E
+San Lorenzo,Huracan,3,1,L
+Tigre,Atl Rafaela,2,1,L
+Godoy Cruz,Lanus,1,5,V
+Rosario Central,Temperley,1,0,L
+Belgrano,Aldosivi,0,1,V
+Arsenal,River Plate,3,3,E
+Gimnasia (LP),Nueva Chicago,2,1,L
+Newells,Quilmes,1,1,E
+Lanus,Gimnasia (LP),2,0,L
+Colon,Tigre,0,1,V
+Velez,Belgrano,1,2,V
+Independiente,Arsenal,4,0,L
+Huracan,Argentinos,4,0,L
+Sarmiento (J),Crucero (M),2,1,L
+Atl Rafaela,Rosario Central,1,1,E
+Estudiantes (LP),Banfield,1,2,V
+Def y Justicia,Racing Club,1,1,E
+River Plate,Godoy Cruz,1,0,L
+San Martin (SJ),Boca Juniors,1,1,E
+Nueva Chicago,San Lorenzo,0,1,V
+Aldosivi,Union,3,3,E
+Temperley,Olimpo,0,0,E
+Quilmes,Sarmiento (J),0,4,V
+Rosario Central,Colon,1,1,E
+Olimpo,Atl Rafaela,0,0,E
+Banfield,Huracan,1,0,L
+Godoy Cruz,Independiente,2,2,E
+San Lorenzo,Lanus,4,0,L
+Crucero (M),Temperley,1,0,L
+Belgrano,Newells,2,0,L
+Racing Club,San Martin (SJ),2,0,L
+Boca Juniors,Estudiantes (LP),3,0,L
+Union,Velez,1,0,L
+Gimnasia (LP),River Plate,2,3,V
+Tigre,Def y Justicia,0,0,E
+Argentinos,Nueva Chicago,1,1,E
+Arsenal,Aldosivi,0,3,V
+Sarmiento (J),Belgrano,1,3,V
+Estudiantes (LP),Racing Club,1,1,E
+Atl Rafaela,Temperley,1,1,E
+Def y Justicia,Rosario Central,3,3,E
+Aldosivi,Godoy Cruz,2,0,L
+Independiente,Gimnasia (LP),1,1,E
+Velez,Arsenal,2,1,L
+River Plate,San Lorenzo,1,0,L
+Lanus,Argentinos,0,1,V
+Huracan,Boca Juniors,0,2,V
+Colon,Olimpo,1,0,L
+Quilmes,Crucero (M),3,1,L
+San Martin (SJ),Tigre,3,1,L
+Nueva Chicago,Banfield,1,2,V
+Newells,Union,2,0,L
+Crucero (M),Atl Rafaela,1,1,E
+Temperley,Colon,2,1,L
+Godoy Cruz,Velez,2,2,E
+Gimnasia (LP),Aldosivi,4,1,L
+Rosario Central,San Martin (SJ),2,1,L
+Racing Club,Huracan,2,0,L
+San Lorenzo,Independiente,1,0,L
+Olimpo,Def y Justicia,0,0,E
+Banfield,Lanus,1,2,V
+Union,Sarmiento (J),0,1,V
+Boca Juniors,Nueva Chicago,0,0,E
+Argentinos,River Plate,1,2,V
+Arsenal,Newells,3,0,L
+Tigre,Estudiantes (LP),2,0,L
+Belgrano,Quilmes,2,1,L
+Estudiantes (LP),Rosario Central,1,1,E
+Sarmiento (J),Arsenal,2,0,L
+Huracan,Tigre,1,2,V
+Def y Justicia,Temperley,0,1,V
+Independiente,Argentinos,0,0,E
+Velez,Gimnasia (LP),0,1,V
+Belgrano,Crucero (M),1,0,L
+Nueva Chicago,Racing Club,0,0,E
+Aldosivi,San Lorenzo,1,0,L
+River Plate,Banfield,4,1,L
+San Martin (SJ),Olimpo,2,0,L
+Lanus,Boca Juniors,1,3,V
+Quilmes,Union,1,3,V
+Colon,Atl Rafaela,2,1,L
+Newells,Godoy Cruz,2,0,L
+Godoy Cruz,Sarmiento (J),1,0,L
+Olimpo,Estudiantes (LP),0,0,E
+Gimnasia (LP),Newells,0,0,E
+San Lorenzo,Velez,1,0,L
+Argentinos,Aldosivi,0,1,V
+Racing Club,Lanus,2,0,L
+Rosario Central,Huracan,1,1,E
+Atl Rafaela,Def y Justicia,2,1,L
+Banfield,Independiente,1,1,E
+Tigre,Nueva Chicago,2,0,L
+Boca Juniors,River Plate,2,0,L
+Union,Belgrano,1,1,E
+Arsenal,Quilmes,0,1,V
+Crucero (M),Colon,0,0,E
+Temperley,San Martin (SJ),0,1,V
+Nueva Chicago,Rosario Central,0,2,V
+Lanus,Tigre,1,1,E
+Estudiantes (LP),Temperley,2,1,L
+Quilmes,Godoy Cruz,0,0,E
+Huracan,Olimpo,1,3,V
+Union,Crucero (M),5,2,L
+Newells,San Lorenzo,1,1,E
+Velez,Argentinos,0,1,V
+Belgrano,Arsenal,2,0,L
+Aldosivi,Banfield,0,3,V
+River Plate,Racing Club,0,0,E
+San Martin (SJ),Atl Rafaela,1,1,E
+Independiente,Boca Juniors,1,1,E
+Sarmiento (J),Gimnasia (LP),0,0,E
+Def y Justicia,Colon,2,3,V
+Gimnasia (LP),Quilmes,3,2,L
+Crucero (M),Def y Justicia,3,1,L
+Temperley,Huracan,0,0,E
+Arsenal,Union,1,1,E
+Rosario Central,Lanus,1,1,E
+Colon,San Martin (SJ),2,2,E
+Banfield,Velez,1,3,V
+Olimpo,Nueva Chicago,0,0,E
+San Lorenzo,Sarmiento (J),3,0,L
+Atl Rafaela,Estudiantes (LP),1,2,V
+Racing Club,Independiente,1,0,L
+Argentinos,Newells,2,1,L
+Boca Juniors,Aldosivi,0,3,V
+Godoy Cruz,Belgrano,1,0,L
+Tigre,River Plate,0,0,E
+Quilmes,San Lorenzo,1,2,V
+Nueva Chicago,Temperley,0,2,V
+Sarmiento (J),Argentinos,0,0,E
+Belgrano,Gimnasia (LP),0,1,V
+Independiente,Tigre,1,0,L
+Newells,Banfield,1,1,E
+Union,Godoy Cruz,1,0,L
+San Martin (SJ),Def y Justicia,2,2,E
+Aldosivi,Racing Club,1,2,V
+River Plate,Rosario Central,2,0,L
+Estudiantes (LP),Colon,0,0,E
+Velez,Boca Juniors,2,0,L
+Arsenal,Crucero (M),1,0,L
+Huracan,Atl Rafaela,3,2,L
+Lanus,Olimpo,2,0,L
+Gimnasia (LP),Union,5,2,L
+Banfield,Sarmiento (J),0,0,E
+Argentinos,Quilmes,0,2,V
+Colon,Huracan,1,1,E
+Temperley,Lanus,1,1,E
+San Lorenzo,Belgrano,0,0,E
+Crucero (M),San Martin (SJ),3,1,L
+Rosario Central,Independiente,1,1,E
+Atl Rafaela,Nueva Chicago,2,0,L
+Racing Club,Velez,3,1,L
+Boca Juniors,Newells,4,0,L
+Godoy Cruz,Arsenal,0,0,E
+Olimpo,River Plate,1,1,E
+Tigre,Aldosivi,2,1,L
+Def y Justicia,Estudiantes (LP),0,1,V
+Arsenal,Gimnasia (LP),0,1,V
+Estudiantes (LP),San Martin (SJ),0,0,E
+Belgrano,Argentinos,2,1,L
+River Plate,Temperley,1,1,E
+Union,San Lorenzo,1,1,E
+Quilmes,Banfield,0,1,V
+Huracan,Def y Justicia,0,0,E
+Lanus,Atl Rafaela,3,0,L
+Nueva Chicago,Colon,0,0,E
+Independiente,Olimpo,3,1,L
+Newells,Racing Club,3,0,L
+Godoy Cruz,Crucero (M),3,0,L
+Sarmiento (J),Boca Juniors,0,1,V
+Aldosivi,Rosario Central,1,3,V
+Velez,Tigre,2,2,E
+San Lorenzo,Arsenal,3,0,L
+Banfield,Belgrano,1,2,V
+Olimpo,Aldosivi,3,1,L
+Boca Juniors,Quilmes,2,1,L
+Def y Justicia,Nueva Chicago,2,1,L
+Atl Rafaela,River Plate,1,5,V
+Racing Club,Sarmiento (J),2,1,L
+Colon,Lanus,1,2,V
+Tigre,Newells,0,0,E
+San Martin (SJ),Huracan,3,2,L
+Rosario Central,Velez,0,0,E
+Temperley,Independiente,0,1,V
+Gimnasia (LP),Godoy Cruz,2,0,L
+Crucero (M),Estudiantes (LP),1,2,V
+Argentinos,Union,1,2,V
+Aldosivi,Temperley,0,0,E
+Gimnasia (LP),Crucero (M),2,1,L
+Sarmiento (J),Tigre,0,1,V
+River Plate,Colon,3,1,L
+Union,Banfield,0,0,E
+Independiente,Atl Rafaela,2,0,L
+Velez,Olimpo,0,2,V
+Godoy Cruz,San Lorenzo,1,1,E
+Newells,Rosario Central,0,1,V
+Quilmes,Racing Club,2,1,L
+Huracan,Estudiantes (LP),1,0,L
+Lanus,Def y Justicia,0,1,V
+Belgrano,Boca Juniors,0,1,V
+Nueva Chicago,San Martin (SJ),0,0,E
+Arsenal,Argentinos,3,2,L
+Atl Rafaela,Aldosivi,2,1,L
+Temperley,Velez,2,1,L
+Argentinos,Godoy Cruz,0,0,E
+Estudiantes (LP),Nueva Chicago,1,0,L
+San Lorenzo,Gimnasia (LP),1,0,L
+Colon,Independiente,0,1,V
+Rosario Central,Sarmiento (J),1,1,E
+Olimpo,Newells,2,0,L
+Racing Club,Belgrano,0,0,E
+Crucero (M),Huracan,3,3,E
+Boca Juniors,Union,3,4,V
+Tigre,Quilmes,0,1,V
+Banfield,Arsenal,4,1,L
+San Martin (SJ),Lanus,1,1,E
+Def y Justicia,River Plate,1,0,L
+Sarmiento (J),Olimpo,0,0,E
+Belgrano,Tigre,1,0,L
+Independiente,Def y Justicia,1,0,L
+Nueva Chicago,Huracan,3,0,L
+Godoy Cruz,Banfield,1,2,V
+Aldosivi,Colon,1,1,E
+Union,Racing Club,1,2,V
+Lanus,Estudiantes (LP),0,0,E
+Gimnasia (LP),Argentinos,4,2,L
+San Lorenzo,Crucero (M),2,1,L
+Velez,Atl Rafaela,2,2,E
+Newells,Temperley,0,0,E
+Arsenal,Boca Juniors,1,2,V
+River Plate,San Martin (SJ),0,1,V
+Quilmes,Rosario Central,3,1,L
+Atl Rafaela,Newells,1,1,E
+Banfield,Gimnasia (LP),1,0,L
+Olimpo,Quilmes,0,1,V
+Racing Club,Arsenal,2,1,L
+Colon,Velez,0,0,E
+San Martin (SJ),Independiente,1,1,E
+Argentinos,San Lorenzo,2,3,V
+Crucero (M),Nueva Chicago,0,1,V
+Rosario Central,Belgrano,3,1,L
+Huracan,Lanus,0,0,E
+Tigre,Union,2,1,L
+Boca Juniors,Godoy Cruz,2,0,L
+Estudiantes (LP),River Plate,2,1,L
+Def y Justicia,Aldosivi,4,0,L
+Temperley,Sarmiento (J),0,0,E
+Argentinos,Crucero (M),4,0,L
+Quilmes,Temperley,0,0,E
+Aldosivi,San Martin (SJ),2,0,L
+Gimnasia (LP),Boca Juniors,1,2,V
+Velez,Def y Justicia,2,1,L
+Newells,Colon,0,1,V
+Arsenal,Tigre,2,0,L
+San Lorenzo,Banfield,0,0,E
+Sarmiento (J),Atl Rafaela,0,1,V
+River Plate,Huracan,1,1,E
+Union,Rosario Central,0,1,V
+Independiente,Estudiantes (LP),1,1,E
+Belgrano,Olimpo,0,0,E
+Lanus,Nueva Chicago,1,0,L
+Godoy Cruz,Racing Club,1,2,V
+Tigre,Godoy Cruz,2,1,L
+Banfield,Argentinos,1,1,E
+Crucero (M),Lanus,1,3,V
+Rosario Central,Arsenal,1,0,L
+Colon,Sarmiento (J),0,1,V
+Huracan,Independiente,1,1,E
+Def y Justicia,Newells,1,0,L
+Temperley,Belgrano,2,1,L
+Nueva Chicago,River Plate,1,4,V
+San Martin (SJ),Velez,3,1,L
+Boca Juniors,San Lorenzo,0,1,V
+Olimpo,Union,0,0,E
+Racing Club,Gimnasia (LP),2,0,L
+Atl Rafaela,Quilmes,2,4,V
+Estudiantes (LP),Aldosivi,2,1,L
+Def y Justicia,Arsenal,1,0,L
+Nueva Chicago,Argentinos,1,2,V
+Independiente,Racing Club,3,0,L
+San Martin (SJ),Godoy Cruz,1,2,V
+Huracan,San Lorenzo,1,0,L
+Olimpo,Sarmiento (J),1,0,L
+Atl Rafaela,Belgrano,1,1,E
+Tigre,Velez,3,0,L
+Rosario Central,Newells,0,0,E
+Estudiantes (LP),Gimnasia (LP),1,1,E
+Colon,Union,0,0,E
+River Plate,Boca Juniors,0,1,V
+Lanus,Banfield,0,1,V
+Aldosivi,Crucero (M),2,0,L
+Temperley,Quilmes,0,0,E
+Sarmiento (J),Def y Justicia,2,1,L
+Aldosivi,Huracan,0,0,E
+Godoy Cruz,Rosario Central,1,3,V
+Argentinos,Boca Juniors,1,3,V
+Independiente,Nueva Chicago,2,1,L
+Gimnasia (LP),Tigre,1,1,E
+Newells,San Martin (SJ),1,0,L
+Velez,Estudiantes (LP),0,1,V
+Arsenal,Olimpo,2,1,L
+Banfield,Crucero (M),2,1,L
+Union,Temperley,2,1,L
+River Plate,Lanus,1,1,E
+San Lorenzo,Racing Club,2,1,L
+Belgrano,Atl Rafaela,0,0,E
+Quilmes,Colon,1,0,L
+Olimpo,Godoy Cruz,1,0,L
+Nueva Chicago,Aldosivi,3,1,L
+Atl Rafaela,Union,2,3,V
+Tigre,San Lorenzo,1,1,E
+Colon,Belgrano,0,1,V
+Crucero (M),River Plate,0,1,V
+Racing Club,Argentinos,1,0,L
+Rosario Central,Gimnasia (LP),4,0,L
+Huracan,Velez,0,0,E
+Def y Justicia,Quilmes,0,1,V
+Boca Juniors,Banfield,3,0,L
+San Martin (SJ),Sarmiento (J),0,1,V
+Lanus,Independiente,1,1,E
+Temperley,Arsenal,1,2,V
+Estudiantes (LP),Newells,0,2,V
+Belgrano,Def y Justicia,1,0,L
+Quilmes,San Martin (SJ),2,0,L
+Arsenal,Atl Rafaela,1,1,E
+Sarmiento (J),Estudiantes (LP),0,1,V
+Argentinos,Tigre,2,1,L
+San Lorenzo,Rosario Central,2,2,E
+Gimnasia (LP),Olimpo,2,2,E
+Velez,Nueva Chicago,1,2,V
+Union,Colon,0,0,E
+Godoy Cruz,Temperley,3,0,L
+Boca Juniors,Crucero (M),1,0,L
+Newells,Huracan,2,0,L
+Independiente,River Plate,3,0,L
+Aldosivi,Lanus,3,1,L
+Banfield,Racing Club,0,0,E
+Huracan,Sarmiento (J),3,0,L
+Crucero (M),Independiente,0,4,V
+Nueva Chicago,Newells,5,0,L
+Atl Rafaela,Godoy Cruz,1,4,V
+Colon,Arsenal,3,1,L
+San Martin (SJ),Belgrano,1,1,E
+Estudiantes (LP),Quilmes,4,1,L
+Lanus,Velez,0,1,V
+Olimpo,San Lorenzo,2,1,L
+Rosario Central,Argentinos,2,0,L
+Tigre,Banfield,3,1,L
+River Plate,Aldosivi,1,1,E
+Racing Club,Boca Juniors,3,1,L
+Def y Justicia,Union,0,0,E
+Temperley,Gimnasia (LP),1,3,V
+Sarmiento (J),Nueva Chicago,1,2,V
+Godoy Cruz,Colon,1,3,V
+Belgrano,Estudiantes (LP),2,1,L
+Gimnasia (LP),Atl Rafaela,1,0,L
+Velez,River Plate,0,1,V
+Union,San Martin (SJ),0,0,E
+Racing Club,Crucero (M),3,0,L
+Newells,Lanus,1,1,E
+Quilmes,Huracan,2,1,L
+San Lorenzo,Temperley,2,0,L
+Boca Juniors,Tigre,1,0,L
+Banfield,Rosario Central,2,1,L
+Aldosivi,Independiente,1,0,L
+Arsenal,Def y Justicia,1,0,L
+Argentinos,Olimpo,0,1,V
+Lanus,Sarmiento (J),2,1,L
+Def y Justicia,Godoy Cruz,1,1,E
+Colon,Gimnasia (LP),2,1,L
+San Martin (SJ),Arsenal,1,0,L
+Estudiantes (LP),Union,2,0,L
+Olimpo,Banfield,1,2,V
+River Plate,Newells,0,2,V
+Tigre,Racing Club,0,0,E
+Atl Rafaela,San Lorenzo,0,1,V
+Rosario Central,Boca Juniors,3,1,L
+Independiente,Velez,1,0,L
+Huracan,Belgrano,1,1,E
+Temperley,Argentinos,0,0,E
+Nueva Chicago,Quilmes,2,1,L
+Crucero (M),Aldosivi,0,2,V
+Banfield,Gimnasia (LP),2,0,L
+Huracan,Atl Rafaela,0,1,V
+Rosario Central,Godoy Cruz,1,0,L
+Aldosivi,Olimpo,3,0,L
+Argentinos,Tigre,1,1,E
+Patronato,San Lorenzo,2,2,E
+San Martin (SJ),Newells,2,1,L
+Temperley,Boca Juniors,0,0,E
+Def y Justicia,Union,2,2,E
+Independiente,Belgrano,1,0,L
+Colon,Arsenal,2,1,L
+Atl Tucuman,Racing Club,2,1,L
+Estudiantes (LP),Lanus,0,1,V
+River Plate,Quilmes,5,1,L
+Sarmiento (J),Velez,1,0,L
+Union,Temperley,3,0,L
+Arsenal,Banfield,3,1,L
+Quilmes,Colon,2,4,V
+Godoy Cruz,Independiente,1,1,E
+Atl Rafaela,Estudiantes (LP),0,1,V
+San Lorenzo,Sarmiento (J),2,1,L
+Aldosivi,Argentinos,3,2,L
+Velez,Olimpo,2,1,L
+Racing Club,San Martin (SJ),2,2,E
+Lanus,Def y Justicia,2,1,L
+Rosario Central,Newells,2,0,L
+Gimnasia (LP),Patronato,3,2,L
+Boca Juniors,Atl Tucuman,0,1,V
+Belgrano,River Plate,3,2,L
+Tigre,Huracan,1,2,V
+Banfield,Quilmes,1,1,E
+Olimpo,San Lorenzo,0,2,V
+Argentinos,Velez,0,3,V
+Newells,Racing Club,5,0,L
+Def y Justicia,Atl Rafaela,4,1,L
+Independiente,Rosario Central,0,2,V
+Patronato,Arsenal,0,0,E
+San Martin (SJ),Boca Juniors,0,1,V
+Sarmiento (J),Gimnasia (LP),1,3,V
+Estudiantes (LP),Tigre,1,1,E
+Colon,Belgrano,3,0,L
+Temperley,Lanus,0,1,V
+Atl Tucuman,Union,2,0,L
+River Plate,Godoy Cruz,1,2,V
+Huracan,Aldosivi,2,0,L
+San Lorenzo,Velez,3,2,L
+Gimnasia (LP),Olimpo,1,0,L
+Boca Juniors,Newells,4,1,L
+Belgrano,Banfield,0,0,E
+Tigre,Def y Justicia,0,2,V
+Godoy Cruz,Colon,4,1,L
+Independiente,Racing Club,1,1,E
+Rosario Central,River Plate,3,3,E
+Quilmes,Patronato,2,2,E
+Arsenal,Sarmiento (J),2,0,L
+Union,San Martin (SJ),1,1,E
+Atl Rafaela,Temperley,0,2,V
+Aldosivi,Estudiantes (LP),1,2,V
+Lanus,Atl Tucuman,1,0,L
+Argentinos,Huracan,0,0,E
+Newells,Union,1,1,E
+Banfield,Godoy Cruz,2,3,V
+Estudiantes (LP),Argentinos,4,1,L
+Sarmiento (J),Quilmes,2,2,E
+Huracan,San Lorenzo,1,1,E
+Def y Justicia,Aldosivi,4,0,L
+Patronato,Belgrano,2,1,L
+Colon,Rosario Central,0,3,V
+Atl Tucuman,Atl Rafaela,3,0,L
+Olimpo,Arsenal,2,1,L
+Racing Club,Boca Juniors,1,0,L
+San Martin (SJ),Lanus,2,2,E
+Velez,Gimnasia (LP),2,1,L
+Temperley,Tigre,2,0,L
+River Plate,Independiente,1,0,L
+Quilmes,Olimpo,1,1,E
+Argentinos,Def y Justicia,1,5,V
+Arsenal,Velez,1,0,L
+Lanus,Newells,3,0,L
+Huracan,Estudiantes (LP),1,0,L
+Atl Rafaela,San Martin (SJ),1,2,V
+Gimnasia (LP),San Lorenzo,0,0,E
+Belgrano,Sarmiento (J),3,0,L
+Independiente,Colon,4,1,L
+River Plate,Boca Juniors,0,0,E
+Rosario Central,Banfield,2,2,E
+Aldosivi,Temperley,1,1,E
+Union,Racing Club,3,6,V
+Tigre,Atl Tucuman,5,0,L
+Godoy Cruz,Patronato,3,1,L
+Racing Club,Lanus,2,1,L
+Newells,Atl Rafaela,1,1,E
+Olimpo,Belgrano,2,0,L
+Def y Justicia,Huracan,0,2,V
+Banfield,Independiente,1,3,V
+San Martin (SJ),Tigre,1,0,L
+San Lorenzo,Arsenal,0,2,V
+Temperley,Argentinos,0,0,E
+Patronato,Rosario Central,1,0,L
+Estudiantes (LP),Gimnasia (LP),3,0,L
+Colon,River Plate,4,1,L
+Atl Tucuman,Aldosivi,1,1,E
+Sarmiento (J),Godoy Cruz,0,0,E
+Boca Juniors,Union,2,1,L
+Velez,Quilmes,1,2,V
+Arsenal,Gimnasia (LP),0,1,V
+Aldosivi,San Martin (SJ),2,2,E
+Estudiantes (LP),Def y Justicia,2,1,L
+Belgrano,Velez,2,3,V
+Colon,Union,0,3,V
+Argentinos,Atl Tucuman,0,3,V
+Godoy Cruz,Olimpo,1,0,L
+Independiente,Patronato,2,1,L
+Quilmes,San Lorenzo,3,0,L
+River Plate,Banfield,1,1,E
+Huracan,Temperley,4,2,L
+Lanus,Boca Juniors,2,0,L
+Rosario Central,Sarmiento (J),1,0,L
+Atl Rafaela,Racing Club,3,6,V
+Tigre,Newells,3,3,E
+Atl Tucuman,Huracan,2,1,L
+Temperley,Estudiantes (LP),1,3,V
+Olimpo,Rosario Central,1,1,E
+Racing Club,Tigre,3,3,E
+Boca Juniors,Atl Rafaela,3,0,L
+Banfield,Colon,1,1,E
+Patronato,River Plate,2,1,L
+Newells,Aldosivi,1,1,E
+San Lorenzo,Belgrano,3,2,L
+San Martin (SJ),Argentinos,2,0,L
+Def y Justicia,Arsenal,0,1,V
+Velez,Godoy Cruz,1,4,V
+Sarmiento (J),Independiente,0,0,E
+Union,Lanus,0,4,V
+Gimnasia (LP),Quilmes,1,0,L
+Colon,Patronato,2,2,E
+Godoy Cruz,San Lorenzo,0,1,V
+Huracan,San Martin (SJ),4,3,L
+Def y Justicia,Temperley,2,1,L
+River Plate,Sarmiento (J),2,2,E
+Independiente,Olimpo,0,0,E
+Banfield,Lanus,0,2,V
+Argentinos,Newells,0,0,E
+Aldosivi,Racing Club,2,1,L
+Rosario Central,Velez,2,3,V
+Belgrano,Gimnasia (LP),3,0,L
+Tigre,Boca Juniors,2,0,L
+Atl Rafaela,Union,1,1,E
+Quilmes,Arsenal,1,4,V
+Estudiantes (LP),Atl Tucuman,3,2,L
+Sarmiento (J),Colon,1,0,L
+Gimnasia (LP),Godoy Cruz,2,2,E
+Lanus,Atl Rafaela,2,1,L
+Newells,Huracan,1,0,L
+Atl Tucuman,Def y Justicia,3,1,L
+Boca Juniors,Aldosivi,4,1,L
+Union,Tigre,1,0,L
+Racing Club,Argentinos,2,2,E
+San Lorenzo,Rosario Central,2,1,L
+San Martin (SJ),Estudiantes (LP),0,2,V
+Velez,Independiente,0,2,V
+Temperley,Quilmes,2,0,L
+Olimpo,River Plate,0,1,V
+Patronato,Banfield,0,2,V
+Arsenal,Belgrano,3,3,E
+Atl Rafaela,Patronato,3,1,L
+Velez,Argentinos,1,0,L
+Olimpo,Aldosivi,2,1,L
+Union,Colon,1,0,L
+Arsenal,Def y Justicia,0,0,E
+San Lorenzo,Huracan,1,0,L
+Godoy Cruz,San Martin (SJ),1,0,L
+Lanus,Banfield,2,0,L
+Gimnasia (LP),Estudiantes (LP),0,0,E
+Newells,Rosario Central,0,0,E
+Boca Juniors,River Plate,0,0,E
+Racing Club,Independiente,0,0,E
+Belgrano,Atl Tucuman,0,0,E
+Tigre,Sarmiento (J),2,0,L
+Quilmes,Temperley,2,0,L
+Estudiantes (LP),Newells,0,0,E
+Aldosivi,Union,1,1,E
+Colon,Olimpo,3,1,L
+Patronato,Atl Rafaela,2,1,L
+Independiente,San Lorenzo,0,1,V
+Belgrano,Quilmes,2,2,E
+River Plate,Velez,0,0,E
+Godoy Cruz,Arsenal,2,0,L
+Huracan,Racing Club,0,1,V
+Def y Justicia,San Martin (SJ),0,0,E
+Argentinos,Boca Juniors,1,0,L
+Rosario Central,Gimnasia (LP),0,1,V
+Tigre,Lanus,0,1,V
+Temperley,Atl Tucuman,1,1,E
+Banfield,Sarmiento (J),0,0,E
+Union,Argentinos,4,0,L
+Quilmes,Godoy Cruz,1,3,V
+Newells,Def y Justicia,0,1,V
+San Martin (SJ),Temperley,2,0,L
+Velez,Colon,2,0,L
+San Lorenzo,River Plate,2,1,L
+Racing Club,Estudiantes (LP),0,0,E
+Arsenal,Rosario Central,1,0,L
+Lanus,Aldosivi,2,0,L
+Atl Tucuman,Belgrano,2,1,L
+Boca Juniors,Huracan,0,0,E
+Atl Rafaela,Tigre,0,0,E
+Gimnasia (LP),Independiente,3,3,E
+Olimpo,Banfield,1,1,E
+Sarmiento (J),Patronato,1,0,L
+Huracan,Union,1,1,E
+Def y Justicia,Racing Club,2,1,L
+Atl Tucuman,San Martin (SJ),3,2,L
+Colon,San Lorenzo,0,2,V
+Godoy Cruz,Belgrano,1,0,L
+River Plate,Gimnasia (LP),1,0,L
+Independiente,Arsenal,2,0,L
+Temperley,Newells,2,0,L
+Sarmiento (J),Tigre,0,1,V
+Argentinos,Lanus,1,1,E
+Aldosivi,Atl Rafaela,2,1,L
+Rosario Central,Quilmes,1,1,E
+Estudiantes (LP),Boca Juniors,3,1,L
+Patronato,Olimpo,1,0,L
+Banfield,Velez,0,0,E
+Arsenal,River Plate,2,1,L
+Tigre,Aldosivi,2,0,L
+Atl Rafaela,Argentinos,0,2,V
+Olimpo,Sarmiento (J),0,1,V
+Racing Club,Temperley,2,0,L
+Quilmes,Independiente,0,3,V
+Velez,Patronato,0,0,E
+San Lorenzo,Banfield,1,1,E
+San Martin (SJ),Godoy Cruz,2,0,L
+Boca Juniors,Def y Justicia,0,0,E
+Newells,Atl Tucuman,2,1,L
+Union,Estudiantes (LP),1,1,E
+Lanus,Huracan,1,3,V
+Belgrano,Rosario Central,1,0,L
+Gimnasia (LP),Colon,3,0,L
+Sarmiento (J),Arsenal,1,0,L
+Godoy Cruz,Huracan,1,0,L
+Gimnasia (LP),Velez,2,0,L
+Rosario Central,Def y Justicia,0,0,E
+Racing Club,Talleres (C),1,1,E
+Atl Tucuman,Atl Rafaela,1,0,L
+San Lorenzo,San Martin (SJ),2,2,E
+Tigre,Estudiantes (LP),0,3,V
+Quilmes,Newells,0,1,V
+Belgrano,Independiente,0,1,V
+Union,Olimpo,1,0,L
+River Plate,Banfield,4,1,L
+Lanus,Boca Juniors,1,0,L
+Aldosivi,Colon,0,2,V
+Temperley,Patronato,1,0,L
+Patronato,Gimnasia (LP),0,1,V
+Huracan,Quilmes,1,1,E
+Olimpo,Lanus,0,0,E
+Banfield,Colon,0,0,E
+San Martin (SJ),Racing Club,0,2,V
+Union,Aldosivi,0,0,E
+Def y Justicia,San Lorenzo,0,2,V
+Independiente,Godoy Cruz,2,0,L
+Newells,Tigre,1,0,L
+Velez,Rosario Central,2,0,L
+Estudiantes (LP),Sarmiento (J),1,0,L
+Boca Juniors,Belgrano,3,0,L
+Talleres (C),River Plate,0,1,V
+Arsenal,Atl Tucuman,1,3,V
+Atl Rafaela,Temperley,1,0,L
+Colon,Talleres (C),1,0,L
+Lanus,Union,0,1,V
+San Lorenzo,Velez,2,1,L
+Rosario Central,Patronato,2,1,L
+Aldosivi,Banfield,1,3,V
+Quilmes,Independiente,1,1,E
+Sarmiento (J),Newells,1,1,E
+Atl Tucuman,Estudiantes (LP),0,2,V
+Temperley,Arsenal,1,1,E
+Godoy Cruz,Boca Juniors,1,1,E
+Belgrano,Olimpo,0,0,E
+River Plate,San Martin (SJ),1,1,E
+Racing Club,Def y Justicia,1,1,E
+Tigre,Huracan,1,1,E
+Gimnasia (LP),Atl Rafaela,0,1,V
+Olimpo,Godoy Cruz,3,0,L
+Newells,Atl Tucuman,3,1,L
+Atl Rafaela,Rosario Central,0,0,E
+Velez,Racing Club,0,3,V
+Independiente,Tigre,1,1,E
+Huracan,Sarmiento (J),0,0,E
+Estudiantes (LP),Temperley,3,0,L
+Union,Belgrano,0,2,V
+Talleres (C),Banfield,0,0,E
+Patronato,San Lorenzo,1,1,E
+Lanus,Aldosivi,0,0,E
+Boca Juniors,Quilmes,4,1,L
+Def y Justicia,River Plate,3,3,E
+Arsenal,Gimnasia (LP),2,2,E
+San Martin (SJ),Colon,0,0,E
+Quilmes,Olimpo,2,1,L
+Godoy Cruz,Union,2,1,L
+Rosario Central,Arsenal,5,0,L
+Aldosivi,Talleres (C),2,1,L
+Temperley,Newells,0,0,E
+Racing Club,Patronato,2,0,L
+River Plate,Velez,3,0,L
+San Lorenzo,Atl Rafaela,2,1,L
+Belgrano,Lanus,1,1,E
+Gimnasia (LP),Estudiantes (LP),0,0,E
+Banfield,San Martin (SJ),3,2,L
+Colon,Def y Justicia,1,0,L
+Sarmiento (J),Independiente,0,1,V
+Tigre,Boca Juniors,1,1,E
+Atl Tucuman,Huracan,0,2,V
+Def y Justicia,Banfield,1,0,L
+Belgrano,Aldosivi,0,0,E
+Velez,Colon,2,1,L
+Huracan,Temperley,1,2,V
+Atl Rafaela,Racing Club,3,2,L
+Estudiantes (LP),Rosario Central,3,2,L
+San Martin (SJ),Talleres (C),1,3,V
+Independiente,Atl Tucuman,0,2,V
+Lanus,Godoy Cruz,3,0,L
+Boca Juniors,Sarmiento (J),2,0,L
+Olimpo,Tigre,1,4,V
+Newells,Gimnasia (LP),1,0,L
+Arsenal,San Lorenzo,1,3,V
+Patronato,River Plate,2,1,L
+Union,Quilmes,1,1,E
+Sarmiento (J),Olimpo,1,1,E
+Talleres (C),Def y Justicia,2,0,L
+Quilmes,Lanus,1,0,L
+Godoy Cruz,Belgrano,2,0,L
+Temperley,Independiente,0,1,V
+Colon,Patronato,0,1,V
+Racing Club,Arsenal,1,0,L
+River Plate,Atl Rafaela,1,0,L
+Gimnasia (LP),Huracan,1,0,L
+Banfield,Velez,1,0,L
+Tigre,Union,3,1,L
+Rosario Central,Newells,0,1,V
+San Lorenzo,Estudiantes (LP),1,2,V
+Atl Tucuman,Boca Juniors,2,2,E
+Aldosivi,San Martin (SJ),1,2,V
+Olimpo,Atl Tucuman,2,1,L
+Patronato,Banfield,2,0,L
+Velez,Talleres (C),0,2,V
+Boca Juniors,Temperley,4,0,L
+Belgrano,Quilmes,0,0,E
+Independiente,Gimnasia (LP),0,0,E
+Huracan,Rosario Central,1,1,E
+Estudiantes (LP),Racing Club,2,1,L
+Lanus,Tigre,1,1,E
+Godoy Cruz,Aldosivi,3,1,L
+Newells,San Lorenzo,2,2,E
+Atl Rafaela,Colon,0,2,V
+Arsenal,River Plate,2,2,E
+Def y Justicia,San Martin (SJ),0,0,E
+Union,Sarmiento (J),1,0,L
+Temperley,Olimpo,0,0,E
+Quilmes,Godoy Cruz,1,0,L
+River Plate,Estudiantes (LP),1,1,E
+Sarmiento (J),Lanus,1,2,V
+Colon,Arsenal,1,0,L
+Racing Club,Newells,2,1,L
+San Martin (SJ),Velez,2,0,L
+Banfield,Atl Rafaela,1,1,E
+San Lorenzo,Huracan,2,0,L
+Tigre,Belgrano,2,1,L
+Talleres (C),Patronato,1,0,L
+Rosario Central,Independiente,0,0,E
+Gimnasia (LP),Boca Juniors,0,3,V
+Aldosivi,Def y Justicia,0,0,E
+Atl Tucuman,Union,1,1,E
+Velez,Def y Justicia,2,1,L
+Arsenal,Banfield,1,3,V
+Estudiantes (LP),Colon,1,0,L
+Union,Temperley,2,1,L
+Godoy Cruz,Tigre,2,1,L
+Lanus,Atl Tucuman,1,0,L
+Huracan,Racing Club,1,1,E
+Quilmes,Aldosivi,1,0,L
+Independiente,San Lorenzo,1,2,V
+Belgrano,Sarmiento (J),1,2,V
+Boca Juniors,Rosario Central,1,1,E
+Atl Rafaela,Talleres (C),0,1,V
+Newells,River Plate,1,0,L
+Olimpo,Gimnasia (LP),0,0,E
+Patronato,San Martin (SJ),3,0,L
+Temperley,Lanus,1,3,V
+Talleres (C),Arsenal,0,0,E
+Tigre,Quilmes,3,0,L
+Colon,Newells,1,2,V
+Banfield,Estudiantes (LP),3,2,L
+Atl Tucuman,Belgrano,0,0,E
+Rosario Central,Olimpo,1,1,E
+Aldosivi,Velez,0,0,E
+River Plate,Huracan,1,0,L
+Sarmiento (J),Godoy Cruz,2,2,E
+San Lorenzo,Boca Juniors,1,2,V
+Racing Club,Independiente,3,0,L
+Def y Justicia,Patronato,1,2,V
+Gimnasia (LP),Union,1,1,E
+San Martin (SJ),Atl Rafaela,0,3,V
+Quilmes,Sarmiento (J),1,3,V
+Huracan,Colon,1,3,V
+Atl Rafaela,Def y Justicia,0,1,V
+Tigre,Aldosivi,1,1,E
+Newells,Banfield,0,2,V
+Godoy Cruz,Atl Tucuman,1,2,V
+Olimpo,San Lorenzo,1,2,V
+Union,Rosario Central,2,0,L
+Estudiantes (LP),Talleres (C),0,0,E
+Patronato,Velez,0,0,E
+Boca Juniors,Racing Club,4,2,L
+Belgrano,Temperley,0,0,E
+Independiente,River Plate,1,0,L
+Arsenal,San Martin (SJ),0,0,E
+Lanus,Gimnasia (LP),1,0,L
+Aldosivi,Patronato,1,1,E
+Sarmiento (J),Tigre,2,0,L
+Temperley,Godoy Cruz,1,0,L
+San Lorenzo,Union,3,2,L
+Velez,Atl Rafaela,2,0,L
+Talleres (C),Newells,1,1,E
+Gimnasia (LP),Belgrano,1,1,E
+Racing Club,Olimpo,0,2,V
+River Plate,Boca Juniors,2,4,V
+Banfield,Huracan,1,0,L
+San Martin (SJ),Estudiantes (LP),3,2,L
+Colon,Independiente,0,2,V
+Rosario Central,Lanus,1,2,V
+Atl Tucuman,Quilmes,3,0,L
+Def y Justicia,Arsenal,2,0,L
+Huracan,Talleres (C),1,0,L
+Godoy Cruz,Gimnasia (LP),0,3,V
+Estudiantes (LP),Def y Justicia,1,2,V
+Sarmiento (J),Aldosivi,0,2,V
+Union,Racing Club,1,0,L
+Atl Rafaela,Patronato,3,0,L
+Independiente,Banfield,0,1,V
+Belgrano,Rosario Central,0,2,V
+Lanus,San Lorenzo,2,2,E
+Arsenal,Velez,2,1,L
+Boca Juniors,Colon,4,1,L
+Newells,San Martin (SJ),6,1,L
+Olimpo,River Plate,1,2,V
+Quilmes,Temperley,1,0,L
+Tigre,Atl Tucuman,0,0,E
+Velez,Estudiantes (LP),3,2,L
+Patronato,Arsenal,4,2,L
+Def y Justicia,Newells,1,0,L
+San Lorenzo,Belgrano,2,1,L
+Banfield,Boca Juniors,0,2,V
+San Martin (SJ),Huracan,0,1,V
+Racing Club,Lanus,3,0,L
+Temperley,Tigre,3,1,L
+Gimnasia (LP),Quilmes,3,1,L
+River Plate,Union,0,0,E
+Rosario Central,Godoy Cruz,0,1,V
+Atl Tucuman,Sarmiento (J),2,1,L
+Aldosivi,Atl Rafaela,1,0,L
+Colon,Olimpo,1,1,E
+Talleres (C),Independiente,0,2,V
+Quilmes,Rosario Central,0,1,V
+Union,Colon,0,2,V
+Newells,Velez,3,0,L
+Tigre,Gimnasia (LP),0,1,V
+Independiente,San Martin (SJ),0,0,E
+Huracan,Def y Justicia,2,0,L
+Belgrano,Racing Club,2,0,L
+Sarmiento (J),Temperley,2,1,L
+Godoy Cruz,San Lorenzo,2,0,L
+Estudiantes (LP),Patronato,1,0,L
+Olimpo,Banfield,1,0,L
+Boca Juniors,Talleres (C),1,2,V
+Arsenal,Atl Rafaela,1,2,V
+Atl Tucuman,Aldosivi,0,0,E
+Lanus,River Plate,1,3,V
+Patronato,Newells,1,1,E
+Banfield,Union,3,1,L
+Rosario Central,Tigre,1,0,L
+San Lorenzo,Quilmes,3,0,L
+Gimnasia (LP),Sarmiento (J),1,0,L
+Racing Club,Godoy Cruz,2,1,L
+Atl Rafaela,Estudiantes (LP),2,2,E
+Colon,Lanus,1,0,L
+San Martin (SJ),Boca Juniors,1,2,V
+Temperley,Atl Tucuman,2,2,E
+River Plate,Belgrano,2,1,L
+Aldosivi,Arsenal,2,1,L
+Velez,Huracan,1,1,E
+Talleres (C),Olimpo,1,0,L
+Def y Justicia,Independiente,1,2,V
+Atl Tucuman,Gimnasia (LP),0,1,V
+Independiente,Velez,1,1,E
+Newells,Atl Rafaela,1,0,L
+Temperley,Aldosivi,1,0,L
+Quilmes,Racing Club,2,3,V
+Belgrano,Colon,0,1,V
+Boca Juniors,Def y Justicia,1,0,L
+Estudiantes (LP),Arsenal,2,0,L
+Lanus,Banfield,4,2,L
+Sarmiento (J),Rosario Central,2,2,E
+Tigre,San Lorenzo,4,3,L
+Huracan,Patronato,0,0,E
+Godoy Cruz,River Plate,1,2,V
+Olimpo,San Martin (SJ),0,0,E
+Union,Talleres (C),4,2,L
+Aldosivi,Estudiantes (LP),1,4,V
+Colon,Godoy Cruz,1,0,L
+Rosario Central,Atl Tucuman,2,1,L
+Arsenal,Newells,0,1,V
+San Lorenzo,Sarmiento (J),1,0,L
+Atl Rafaela,Huracan,1,1,E
+Talleres (C),Lanus,3,1,L
+Banfield,Belgrano,2,0,L
+Patronato,Independiente,0,5,V
+San Martin (SJ),Union,0,0,E
+River Plate,Quilmes,2,0,L
+Velez,Boca Juniors,1,3,V
+Def y Justicia,Olimpo,1,1,E
+Gimnasia (LP),Temperley,1,1,E
+Racing Club,Tigre,4,1,L
+Huracan,Arsenal,1,2,V
+Lanus,San Martin (SJ),0,0,E
+Newells,Estudiantes (LP),0,0,E
+Belgrano,Talleres (C),1,1,E
+Independiente,Atl Rafaela,1,1,E
+Olimpo,Velez,0,1,V
+Sarmiento (J),Racing Club,1,2,V
+Godoy Cruz,Banfield,3,1,L
+Atl Tucuman,San Lorenzo,1,0,L
+Quilmes,Colon,0,1,V
+Boca Juniors,Patronato,1,1,E
+Tigre,River Plate,0,2,V
+Union,Def y Justicia,0,2,V
+Temperley,Rosario Central,1,2,V
+Gimnasia (LP),Aldosivi,1,0,L
+San Lorenzo,Temperley,0,1,V
+Aldosivi,Newells,0,3,V
+Racing Club,Atl Tucuman,4,3,L
+Def y Justicia,Lanus,1,0,L
+Banfield,Quilmes,2,0,L
+Velez,Union,2,1,L
+Rosario Central,Gimnasia (LP),2,1,L
+Estudiantes (LP),Huracan,1,1,E
+Atl Rafaela,Boca Juniors,0,0,E
+San Martin (SJ),Belgrano,2,1,L
+River Plate,Sarmiento (J),1,1,E
+Talleres (C),Godoy Cruz,1,0,L
+Arsenal,Independiente,0,2,V
+Patronato,Olimpo,3,4,V
+Colon,Tigre,2,1,L
+Quilmes,Talleres (C),1,0,L
+Independiente,Estudiantes (LP),2,2,E
+Gimnasia (LP),San Lorenzo,0,1,V
+Huracan,Newells,0,1,V
+Sarmiento (J),Colon,0,4,V
+Tigre,Banfield,0,1,V
+Temperley,Racing Club,3,0,L
+Union,Patronato,0,0,E
+Godoy Cruz,San Martin (SJ),0,0,E
+Rosario Central,Aldosivi,2,0,L
+Boca Juniors,Arsenal,3,0,L
+Olimpo,Atl Rafaela,1,2,V
+Belgrano,Def y Justicia,0,1,V
+Lanus,Velez,2,0,L
+Atl Tucuman,River Plate,0,3,V
+San Martin (SJ),Quilmes,1,0,L
+Talleres (C),Tigre,1,2,V
+Patronato,Lanus,0,2,V
+Racing Club,Gimnasia (LP),1,0,L
+Atl Rafaela,Union,3,0,L
+River Plate,Temperley,4,1,L
+Estudiantes (LP),Boca Juniors,0,0,E
+Aldosivi,Huracan,0,3,V
+Def y Justicia,Godoy Cruz,0,0,E
+San Lorenzo,Rosario Central,2,1,L
+Newells,Independiente,2,4,V
+Colon,Atl Tucuman,2,2,E
+Banfield,Sarmiento (J),2,0,L
+Velez,Belgrano,1,2,V
+Arsenal,Olimpo,1,0,L
+San Martin (SJ),Godoy Cruz,1,2,V
+Talleres (C),Belgrano,1,1,E
+Estudiantes (LP),Gimnasia (LP),1,0,L
+Banfield,Lanus,1,0,L
+Atl Rafaela,Atl Tucuman,1,0,L
+Huracan,San Lorenzo,0,1,V
+Olimpo,Aldosivi,2,0,L
+Colon,Union,1,1,E
+Newells,Rosario Central,1,3,V
+Boca Juniors,River Plate,1,3,V
+Independiente,Racing Club,2,0,L
+Patronato,Sarmiento (J),2,2,E
+Arsenal,Temperley,2,0,L
+Def y Justicia,Quilmes,2,0,L
+Velez,Tigre,2,1,L
+Atl Tucuman,Banfield,3,0,L
+Belgrano,Patronato,1,1,E
+Lanus,Atl Rafaela,2,0,L
+Sarmiento (J),Talleres (C),1,4,V
+Boca Juniors,Newells,1,0,L
+Tigre,San Martin (SJ),1,1,E
+Union,Arsenal,0,1,V
+Independiente,Huracan,2,1,L
+Godoy Cruz,Velez,3,0,L
+San Lorenzo,Aldosivi,0,1,V
+Temperley,Colon,3,0,L
+Quilmes,Def y Justicia,0,2,V
+Rosario Central,Racing Club,4,1,L
+Olimpo,Estudiantes (LP),3,1,L
+Gimnasia (LP),River Plate,0,3,V
+Aldosivi,Independiente,0,0,E
+Colon,Gimnasia (LP),1,2,V
+Banfield,Temperley,3,1,L
+Newells,Olimpo,3,2,L
+San Martin (SJ),Sarmiento (J),4,2,L
+Huracan,Boca Juniors,1,1,E
+Racing Club,San Lorenzo,2,1,L
+Def y Justicia,Tigre,1,0,L
+Arsenal,Lanus,0,2,V
+Talleres (C),Atl Tucuman,2,1,L
+River Plate,Rosario Central,0,0,E
+Atl Rafaela,Belgrano,1,2,V
+Patronato,Godoy Cruz,0,3,V
+Estudiantes (LP),Union,2,0,L
+Velez,Quilmes,0,0,E
+Sarmiento (J),Def y Justicia,1,0,L
+Godoy Cruz,Atl Rafaela,0,2,V
+Tigre,Velez,0,3,V
+Temperley,Talleres (C),2,1,L
+Rosario Central,Colon,0,0,E
+Union,Newells,2,1,L
+Lanus,Estudiantes (LP),1,0,L
+San Lorenzo,River Plate,2,1,L
+Gimnasia (LP),Banfield,1,2,V
+Belgrano,Arsenal,1,2,V
+Olimpo,Huracan,3,1,L
+Atl Tucuman,San Martin (SJ),1,2,V
+Boca Juniors,Independiente,3,0,L
+Quilmes,Patronato,0,1,V
+Racing Club,Aldosivi,1,1,E
+Colon,San Lorenzo,2,1,L
+San Martin (SJ),Temperley,0,1,V
+Huracan,Union,1,0,L
+Talleres (C),Gimnasia (LP),0,1,V
+Banfield,Rosario Central,3,1,L
+Arsenal,Godoy Cruz,1,2,V
+Estudiantes (LP),Belgrano,2,0,L
+Atl Rafaela,Quilmes,1,1,E
+Aldosivi,Boca Juniors,0,4,V
+Velez,Sarmiento (J),5,1,L
+Newells,Lanus,1,1,E
+Patronato,Tigre,0,2,V
+Independiente,Olimpo,1,1,E
+Def y Justicia,Atl Tucuman,3,0,L
+River Plate,Racing Club,2,3,V
+San Lorenzo,Banfield,1,0,L
+Gimnasia (LP),San Martin (SJ),2,0,L
+Rosario Central,Talleres (C),3,3,E
+Quilmes,Arsenal,2,2,E
+Temperley,Def y Justicia,2,3,V
+Racing Club,Colon,1,0,L
+Olimpo,Boca Juniors,2,2,E
+River Plate,Aldosivi,1,0,L
+Belgrano,Newells,2,1,L
+Lanus,Huracan,2,0,L
+Sarmiento (J),Patronato,1,3,V
+Tigre,Atl Rafaela,1,0,L
+Godoy Cruz,Estudiantes (LP),0,2,V
+Union,Independiente,0,3,V
+Atl Tucuman,Velez,1,1,E
+Def y Justicia,Gimnasia (LP),1,0,L
+San Martin (SJ),Rosario Central,1,1,E
+Boca Juniors,Union,2,1,L
+Atl Rafaela,Sarmiento (J),2,3,V
+Banfield,Racing Club,1,3,V
+Colon,River Plate,0,0,E
+Patronato,Atl Tucuman,1,1,E
+Arsenal,Tigre,2,1,L
+Huracan,Belgrano,0,0,E
+Velez,Temperley,0,0,E
+Aldosivi,Olimpo,0,3,V
+Estudiantes (LP),Quilmes,1,0,L
+Newells,Godoy Cruz,0,2,V
+Talleres (C),San Lorenzo,1,1,E
+Independiente,Lanus,1,1,E
+Tigre,Velez,0,3,V
+Banfield,Belgrano,2,1,L
+Def y Justicia,Gimnasia (LP),4,4,E
+Colon,Rosario Central,1,1,E
+Talleres (C),Lanus,5,2,L
+Independiente,Huracan,3,1,L
+San Martin (SJ),Patronato,2,0,L
+Atl Tucuman,Godoy Cruz,2,1,L
+San Lorenzo,Racing Club,1,1,E
+Boca Juniors,Olimpo,3,0,L
+Temperley,River Plate,0,1,V
+Newells,Union,1,1,E
+Estudiantes (LP),Arsenal,2,1,L
+Argentinos,Chacarita,1,0,L
+Velez,Atl Tucuman,2,0,L
+Arsenal,Colon,0,1,V
+Olimpo,Independiente,1,1,E
+Belgrano,San Martin (SJ),1,0,L
+Estudiantes (LP),Def y Justicia,0,1,V
+Patronato,Argentinos,2,1,L
+Racing Club,Temperley,4,1,L
+Chacarita,Tigre,1,1,E
+Godoy Cruz,Talleres (C),2,1,L
+Rosario Central,San Lorenzo,0,0,E
+River Plate,Banfield,3,1,L
+Lanus,Boca Juniors,0,1,V
+Union,Gimnasia (LP),1,0,L
+Huracan,Newells,1,0,L
+Tigre,Patronato,1,3,V
+Colon,Estudiantes (LP),0,0,E
+Def y Justicia,Union,1,3,V
+Argentinos,Belgrano,1,2,V
+Newells,Olimpo,2,0,L
+San Lorenzo,Arsenal,1,0,L
+Independiente,Lanus,0,1,V
+Talleres (C),Velez,0,0,E
+Atl Tucuman,Chacarita,1,1,E
+Banfield,Racing Club,1,0,L
+Boca Juniors,Godoy Cruz,4,1,L
+San Martin (SJ),River Plate,1,3,V
+Gimnasia (LP),Huracan,1,3,V
+Temperley,Rosario Central,1,1,E
+Belgrano,Tigre,0,0,E
+Patronato,Atl Tucuman,2,1,L
+Arsenal,Temperley,0,1,V
+Huracan,Union,0,0,E
+Chacarita,Talleres (C),0,1,V
+Velez,Boca Juniors,0,4,V
+Godoy Cruz,Independiente,1,0,L
+Colon,Def y Justicia,3,1,L
+Olimpo,Gimnasia (LP),0,1,V
+Rosario Central,Banfield,0,4,V
+River Plate,Argentinos,1,1,E
+Racing Club,San Martin (SJ),0,0,E
+Lanus,Newells,1,0,L
+Estudiantes (LP),San Lorenzo,1,3,V
+Union,Olimpo,2,0,L
+Def y Justicia,Huracan,0,0,E
+Atl Tucuman,Belgrano,0,0,E
+San Lorenzo,Colon,0,0,E
+Temperley,Estudiantes (LP),0,3,V
+Gimnasia (LP),Lanus,1,3,V
+Argentinos,Racing Club,2,0,L
+Talleres (C),Patronato,1,0,L
+San Martin (SJ),Rosario Central,3,1,L
+Independiente,Velez,1,0,L
+Boca Juniors,Chacarita,1,0,L
+Tigre,River Plate,1,1,E
+Banfield,Arsenal,1,2,V
+Newells,Godoy Cruz,0,0,E
+Lanus,Union,2,1,L
+San Lorenzo,Def y Justicia,3,1,L
+Colon,Temperley,2,0,L
+Rosario Central,Argentinos,1,3,V
+Estudiantes (LP),Banfield,1,1,E
+Velez,Newells,1,0,L
+Racing Club,Tigre,1,0,L
+Chacarita,Independiente,1,2,V
+Godoy Cruz,Gimnasia (LP),3,0,L
+Belgrano,Talleres (C),0,0,E
+River Plate,Atl Tucuman,2,2,E
+Patronato,Boca Juniors,0,2,V
+Olimpo,Huracan,0,2,V
+Arsenal,San Martin (SJ),0,1,V
+Banfield,Colon,1,1,E
+Argentinos,Arsenal,3,2,L
+Union,Godoy Cruz,2,0,L
+Huracan,Lanus,4,0,L
+San Martin (SJ),Estudiantes (LP),1,0,L
+Atl Tucuman,Racing Club,3,1,L
+Talleres (C),River Plate,4,0,L
+Newells,Chacarita,2,1,L
+Gimnasia (LP),Velez,4,0,L
+Temperley,San Lorenzo,0,2,V
+Boca Juniors,Belgrano,4,0,L
+Independiente,Patronato,1,1,E
+Def y Justicia,Olimpo,1,1,E
+Tigre,Rosario Central,1,1,E
+Chacarita,Gimnasia (LP),2,0,L
+Godoy Cruz,Huracan,2,1,L
+Lanus,Olimpo,0,2,V
+Colon,San Martin (SJ),3,3,E
+San Lorenzo,Banfield,0,1,V
+Rosario Central,Atl Tucuman,0,1,V
+Racing Club,Talleres (C),1,1,E
+Temperley,Def y Justicia,1,4,V
+Estudiantes (LP),Argentinos,1,0,L
+Belgrano,Independiente,0,0,E
+River Plate,Boca Juniors,1,2,V
+Arsenal,Tigre,0,0,E
+Patronato,Newells,0,0,E
+Velez,Union,0,2,V
+Argentinos,Colon,0,1,V
+Atl Tucuman,Arsenal,0,0,E
+Newells,Belgrano,0,1,V
+Def y Justicia,Lanus,3,0,L
+Banfield,Temperley,0,0,E
+San Martin (SJ),San Lorenzo,1,3,V
+Independiente,River Plate,1,0,L
+Tigre,Estudiantes (LP),2,0,L
+Union,Chacarita,0,0,E
+Boca Juniors,Racing Club,1,2,V
+Talleres (C),Rosario Central,0,1,V
+Gimnasia (LP),Patronato,2,0,L
+Olimpo,Godoy Cruz,1,1,E
+Huracan,Velez,1,0,L
+Banfield,Def y Justicia,0,1,V
+Chacarita,Huracan,0,2,V
+Colon,Tigre,3,1,L
+Patronato,Union,2,3,V
+Belgrano,Gimnasia (LP),2,0,L
+San Lorenzo,Argentinos,1,0,L
+Racing Club,Independiente,0,1,V
+Estudiantes (LP),Atl Tucuman,1,0,L
+River Plate,Newells,1,3,V
+Rosario Central,Boca Juniors,1,0,L
+Arsenal,Talleres (C),0,1,V
+Velez,Olimpo,3,0,L
+Temperley,San Martin (SJ),1,0,L
+Godoy Cruz,Lanus,4,1,L
+Union,Belgrano,1,1,E
+Def y Justicia,Godoy Cruz,3,2,L
+Huracan,Patronato,1,1,E
+Argentinos,Temperley,2,2,E
+Olimpo,Chacarita,2,0,L
+Newells,Racing Club,2,2,E
+Tigre,San Lorenzo,1,2,V
+Talleres (C),Estudiantes (LP),0,1,V
+Boca Juniors,Arsenal,2,0,L
+Gimnasia (LP),River Plate,2,1,L
+Lanus,Velez,0,0,E
+Atl Tucuman,Colon,2,0,L
+San Martin (SJ),Banfield,2,1,L
+Independiente,Rosario Central,1,1,E
+River Plate,Union,2,0,L
+Velez,Godoy Cruz,0,1,V
+San Lorenzo,Atl Tucuman,2,0,L
+Temperley,Tigre,2,1,L
+Patronato,Olimpo,1,0,L
+Belgrano,Huracan,1,0,L
+Banfield,Argentinos,2,3,V
+Arsenal,Independiente,1,2,V
+Rosario Central,Newells,1,0,L
+Racing Club,Gimnasia (LP),3,1,L
+Colon,Talleres (C),0,2,V
+Estudiantes (LP),Boca Juniors,0,1,V
+San Martin (SJ),Def y Justicia,1,0,L
+Chacarita,Lanus,3,0,L
+Godoy Cruz,Chacarita,1,0,L
+Tigre,Banfield,1,2,V
+Talleres (C),San Lorenzo,2,0,L
+Lanus,Patronato,1,1,E
+Newells,Arsenal,2,1,L
+Def y Justicia,Velez,0,1,V
+Boca Juniors,Colon,2,0,L
+Argentinos,San Martin (SJ),2,0,L
+Olimpo,Belgrano,1,2,V
+Union,Racing Club,2,1,L
+Huracan,River Plate,1,0,L
+Independiente,Estudiantes (LP),1,2,V
+Atl Tucuman,Temperley,3,0,L
+Gimnasia (LP),Rosario Central,2,1,L
+Argentinos,Def y Justicia,2,1,L
+Patronato,Godoy Cruz,0,0,E
+Belgrano,Lanus,0,0,E
+Banfield,Atl Tucuman,0,0,E
+Rosario Central,Union,1,0,L
+Colon,Independiente,0,1,V
+River Plate,Olimpo,2,0,L
+Arsenal,Gimnasia (LP),0,0,E
+Estudiantes (LP),Newells,4,2,L
+San Lorenzo,Boca Juniors,1,1,E
+Racing Club,Huracan,4,0,L
+Chacarita,Velez,2,0,L
+Temperley,Talleres (C),0,1,V
+San Martin (SJ),Tigre,0,0,E
+Def y Justicia,Chacarita,4,2,L
+Union,Arsenal,0,0,E
+Newells,Colon,0,1,V
+Velez,Patronato,0,2,V
+Gimnasia (LP),Estudiantes (LP),0,0,E
+Olimpo,Racing Club,1,2,V
+Talleres (C),Banfield,1,0,L
+Godoy Cruz,Belgrano,2,1,L
+Boca Juniors,Temperley,1,0,L
+Lanus,River Plate,1,0,L
+Tigre,Argentinos,2,0,L
+Atl Tucuman,San Martin (SJ),2,1,L
+Huracan,Rosario Central,2,3,V
+Independiente,San Lorenzo,0,1,V
+Racing Club,Lanus,3,1,L
+Estudiantes (LP),Union,2,0,L
+Belgrano,Velez,2,2,E
+San Lorenzo,Newells,1,0,L
+Argentinos,Atl Tucuman,2,2,E
+Temperley,Independiente,0,0,E
+Rosario Central,Olimpo,5,0,L
+San Martin (SJ),Talleres (C),1,1,E
+Arsenal,Huracan,1,1,E
+River Plate,Godoy Cruz,2,2,E
+Banfield,Boca Juniors,0,1,V
+Patronato,Chacarita,3,0,L
+Tigre,Def y Justicia,1,1,E
+Colon,Gimnasia (LP),1,0,L
+Olimpo,Arsenal,2,1,L
+Huracan,Estudiantes (LP),1,0,L
+Godoy Cruz,Racing Club,1,2,V
+Def y Justicia,Patronato,1,0,L
+Lanus,Rosario Central,1,1,E
+Velez,River Plate,1,0,L
+Atl Tucuman,Tigre,0,0,E
+Independiente,Banfield,1,0,L
+Chacarita,Belgrano,0,1,V
+Boca Juniors,San Martin (SJ),4,2,L
+Union,Colon,1,1,E
+Talleres (C),Argentinos,2,0,L
+Newells,Temperley,0,0,E
+Gimnasia (LP),San Lorenzo,1,0,L
+Arsenal,Lanus,2,1,L
+Belgrano,Patronato,2,2,E
+Colon,Huracan,0,0,E
+Tigre,Talleres (C),0,0,E
+San Lorenzo,Union,0,0,E
+Rosario Central,Godoy Cruz,1,2,V
+Temperley,Gimnasia (LP),1,1,E
+Banfield,Newells,1,0,L
+Atl Tucuman,Def y Justicia,0,1,V
+River Plate,Chacarita,1,1,E
+Racing Club,Velez,2,1,L
+Estudiantes (LP),Olimpo,1,0,L
+San Martin (SJ),Independiente,0,4,V
+Argentinos,Boca Juniors,2,0,L
+Godoy Cruz,Arsenal,1,0,L
+Gimnasia (LP),Banfield,0,2,V
+Talleres (C),Atl Tucuman,3,1,L
+Chacarita,Racing Club,1,1,E
+Olimpo,Colon,0,3,V
+Boca Juniors,Tigre,2,1,L
+Patronato,River Plate,0,1,V
+Lanus,Estudiantes (LP),0,0,E
+Huracan,San Lorenzo,1,1,E
+Velez,Rosario Central,2,2,E
+Independiente,Argentinos,2,1,L
+Union,Temperley,3,0,L
+Def y Justicia,Belgrano,1,1,E
+Newells,San Martin (SJ),2,0,L
+Rosario Central,Chacarita,3,1,L
+Colon,Lanus,1,2,V
+Argentinos,Newells,1,0,L
+Temperley,Huracan,1,2,V
+San Martin (SJ),Gimnasia (LP),3,0,L
+San Lorenzo,Olimpo,2,0,L
+Talleres (C),Def y Justicia,1,0,L
+Racing Club,Patronato,5,0,L
+Arsenal,Velez,1,1,E
+Estudiantes (LP),Godoy Cruz,0,1,V
+Atl Tucuman,Boca Juniors,1,1,E
+River Plate,Belgrano,3,1,L
+Banfield,Union,0,2,V
+Tigre,Independiente,1,1,E
+Huracan,Banfield,1,1,E
+Belgrano,Racing Club,2,2,E
+Velez,Estudiantes (LP),3,3,E
+Newells,Tigre,2,1,L
+Gimnasia (LP),Argentinos,1,3,V
+Union,San Martin (SJ),1,1,E
+Independiente,Atl Tucuman,0,2,V
+Def y Justicia,River Plate,1,3,V
+Chacarita,Arsenal,2,2,E
+Patronato,Rosario Central,3,0,L
+Boca Juniors,Talleres (C),2,1,L
+Lanus,San Lorenzo,0,2,V
+Olimpo,Temperley,1,1,E
+Godoy Cruz,Colon,2,1,L
+Tigre,Gimnasia (LP),2,0,L
+Argentinos,Union,3,1,L
+Rosario Central,Belgrano,2,1,L
+Temperley,Lanus,2,2,E
+Banfield,Olimpo,3,0,L
+Boca Juniors,Def y Justicia,1,2,V
+San Lorenzo,Godoy Cruz,0,5,V
+San Martin (SJ),Huracan,0,1,V
+Atl Tucuman,Newells,1,1,E
+Talleres (C),Independiente,0,2,V
+Racing Club,River Plate,0,2,V
+Arsenal,Patronato,1,1,E
+Estudiantes (LP),Chacarita,0,2,V
+Colon,Velez,0,1,V
+Gimnasia (LP),Atl Tucuman,1,2,V
+Huracan,Argentinos,1,0,L
+Godoy Cruz,Temperley,3,0,L
+Olimpo,San Martin (SJ),0,2,V
+Lanus,Banfield,0,0,E
+Belgrano,Arsenal,3,0,L
+Def y Justicia,Racing Club,3,2,L
+Union,Tigre,3,3,E
+Patronato,Estudiantes (LP),0,1,V
+Chacarita,Colon,0,2,V
+River Plate,Rosario Central,2,0,L
+Independiente,Boca Juniors,1,0,L
+Newells,Talleres (C),2,1,L
+Velez,San Lorenzo,2,2,E
+Argentinos,Olimpo,1,0,L
+Estudiantes (LP),Belgrano,0,1,V
+Temperley,Velez,2,4,V
+San Martin (SJ),Lanus,1,1,E
+Talleres (C),Gimnasia (LP),2,0,L
+Banfield,Godoy Cruz,1,1,E
+San Lorenzo,Chacarita,1,0,L
+Tigre,Huracan,0,2,V
+Rosario Central,Racing Club,0,2,V
+Atl Tucuman,Union,0,0,E
+Arsenal,River Plate,0,3,V
+Boca Juniors,Newells,3,1,L
+Colon,Patronato,4,0,L
+Independiente,Def y Justicia,0,1,V
+Chacarita,Temperley,1,2,V
+Godoy Cruz,San Martin (SJ),2,0,L
+Def y Justicia,Rosario Central,3,1,L
+Velez,Banfield,1,0,L
+Newells,Independiente,0,1,V
+Lanus,Argentinos,0,0,E
+Huracan,Atl Tucuman,3,2,L
+Patronato,San Lorenzo,0,0,E
+Belgrano,Colon,1,0,L
+Union,Talleres (C),3,0,L
+Olimpo,Tigre,1,5,V
+Racing Club,Arsenal,2,0,L
+Gimnasia (LP),Boca Juniors,2,2,E
+River Plate,Estudiantes (LP),2,0,L
+San Martin (SJ),Velez,0,2,V
+San Lorenzo,Belgrano,2,0,L
+Arsenal,Rosario Central,4,0,L
+Argentinos,Godoy Cruz,1,2,V
+Newells,Def y Justicia,1,0,L
+Talleres (C),Huracan,0,0,E
+Atl Tucuman,Olimpo,1,1,E
+Temperley,Patronato,1,2,V
+Independiente,Gimnasia (LP),2,2,E
+Tigre,Lanus,0,0,E
+Boca Juniors,Union,2,0,L
+Estudiantes (LP),Racing Club,1,2,V
+Banfield,Chacarita,2,1,L
+Colon,River Plate,0,0,E
+Chacarita,San Martin (SJ),1,4,V
+Lanus,Atl Tucuman,0,0,E
+Huracan,Boca Juniors,3,3,E
+Patronato,Banfield,0,0,E
+Def y Justicia,Arsenal,2,0,L
+Olimpo,Talleres (C),2,2,E
+Union,Independiente,1,0,L
+Belgrano,Temperley,2,3,V
+Godoy Cruz,Tigre,2,0,L
+Velez,Argentinos,1,1,E
+Racing Club,Colon,1,3,V
+Rosario Central,Estudiantes (LP),1,1,E
+Gimnasia (LP),Newells,2,0,L
+River Plate,San Lorenzo,2,0,L
+Velez,Newells,2,0,L
+Tigre,San Lorenzo,2,2,E
+Gimnasia (LP),Argentinos,1,0,L
+Union,Aldosivi,1,0,L
+Patronato,Colon,0,0,E
+Belgrano,San Martin (SJ),0,0,E
+Boca Juniors,Talleres (C),1,0,L
+Godoy Cruz,Estudiantes (LP),1,0,L
+Lanus,Def y Justicia,2,2,E
+Rosario Central,Banfield,1,0,L
+Huracan,River Plate,0,0,E
+Atl Tucuman,Racing Club,2,2,E
+Independiente,San Martin (T),4,0,L
+Talleres (C),Rosario Central,0,1,V
+Newells,Independiente,2,2,E
+Def y Justicia,Atl Tucuman,1,1,E
+Banfield,Gimnasia (LP),1,0,L
+Argentinos,Godoy Cruz,0,0,E
+River Plate,Belgrano,0,0,E
+San Martin (SJ),Patronato,1,0,L
+Colon,Tigre,2,2,E
+Aldosivi,Huracan,2,1,L
+San Lorenzo,Lanus,2,2,E
+Racing Club,Velez,2,0,L
+Estudiantes (LP),Boca Juniors,2,0,L
+San Martin (T),Union,1,1,E
+Patronato,Racing Club,0,3,V
+Belgrano,Estudiantes (LP),2,1,L
+Atl Tucuman,Colon,2,1,L
+Independiente,Def y Justicia,0,1,V
+Gimnasia (LP),Talleres (C),0,2,V
+Tigre,San Martin (SJ),2,2,E
+River Plate,Argentinos,0,0,E
+Velez,Banfield,1,1,E
+Lanus,Aldosivi,0,1,V
+Rosario Central,San Martin (T),2,0,L
+Huracan,Boca Juniors,0,0,E
+Godoy Cruz,Newells,2,1,L
+Union,San Lorenzo,1,1,E
+Argentinos,Lanus,2,0,L
+San Martin (SJ),Huracan,1,2,V
+Def y Justicia,Belgrano,1,1,E
+Banfield,Patronato,1,0,L
+Talleres (C),Godoy Cruz,1,0,L
+San Lorenzo,River Plate,1,1,E
+Racing Club,Rosario Central,2,0,L
+Estudiantes (LP),Independiente,2,2,E
+Aldosivi,Tigre,0,2,V
+Colon,Union,0,0,E
+Boca Juniors,Velez,3,0,L
+Newells,Atl Tucuman,1,2,V
+San Martin (T),Gimnasia (LP),1,1,E
+Estudiantes (LP),Aldosivi,0,2,V
+Atl Tucuman,Tigre,3,0,L
+Independiente,Colon,3,0,L
+River Plate,San Martin (SJ),4,1,L
+Belgrano,Newells,0,0,E
+Argentinos,Boca Juniors,0,1,V
+Patronato,Gimnasia (LP),0,2,V
+Velez,San Martin (T),1,0,L
+Union,Talleres (C),2,1,L
+Lanus,Racing Club,0,1,V
+Godoy Cruz,San Lorenzo,1,0,L
+Huracan,Banfield,3,0,L
+Rosario Central,Def y Justicia,0,1,V
+San Lorenzo,Patronato,3,2,L
+Colon,Godoy Cruz,3,1,L
+Newells,Lanus,2,0,L
+Talleres (C),Velez,1,1,E
+Banfield,Independiente,1,1,E
+San Martin (T),Argentinos,0,0,E
+Tigre,Huracan,0,2,V
+San Martin (SJ),Atl Tucuman,1,3,V
+Gimnasia (LP),Rosario Central,1,1,E
+Boca Juniors,River Plate,0,2,V
+Aldosivi,Belgrano,2,0,L
+Racing Club,Union,1,0,L
+Def y Justicia,Estudiantes (LP),1,1,E
+Independiente,Tigre,0,0,E
+Lanus,River Plate,1,5,V
+Argentinos,Racing Club,0,2,V
+Patronato,Talleres (C),2,1,L
+Union,Gimnasia (LP),1,0,L
+Belgrano,Huracan,0,1,V
+Boca Juniors,Colon,3,1,L
+Godoy Cruz,Def y Justicia,0,1,V
+Velez,Aldosivi,2,0,L
+San Martin (T),Banfield,1,1,E
+Estudiantes (LP),Newells,1,0,L
+San Lorenzo,Atl Tucuman,0,2,V
+Rosario Central,San Martin (SJ),1,0,L
+Aldosivi,San Martin (T),2,0,L
+Gimnasia (LP),Godoy Cruz,1,0,L
+San Martin (SJ),Velez,3,1,L
+Patronato,Independiente,1,2,V
+Banfield,San Lorenzo,2,0,L
+Atl Tucuman,Lanus,0,0,E
+Rosario Central,Union,0,4,V
+Talleres (C),Belgrano,3,0,L
+Racing Club,Boca Juniors,2,2,E
+Tigre,Estudiantes (LP),1,0,L
+Colon,Newells,1,0,L
+Huracan,Argentinos,0,0,E
+River Plate,Def y Justicia,0,1,V
+Velez,Gimnasia (LP),1,0,L
+Def y Justicia,Talleres (C),2,0,L
+Colon,River Plate,1,0,L
+Godoy Cruz,Aldosivi,2,0,L
+Lanus,Patronato,3,1,L
+Boca Juniors,Rosario Central,0,0,E
+Newells,Tigre,2,0,L
+Estudiantes (LP),Atl Tucuman,1,1,E
+Argentinos,Union,0,1,V
+Independiente,Huracan,3,1,L
+San Martin (T),Racing Club,2,1,L
+Belgrano,Banfield,1,1,E
+San Lorenzo,San Martin (SJ),2,1,L
+Tigre,Lanus,1,1,E
+Huracan,Colon,3,2,L
+River Plate,Aldosivi,1,0,L
+Gimnasia (LP),Boca Juniors,2,1,L
+Union,Godoy Cruz,0,3,V
+Talleres (C),San Martin (T),0,0,E
+Racing Club,San Lorenzo,2,1,L
+Patronato,Rosario Central,2,1,L
+Velez,Belgrano,1,0,L
+Banfield,Estudiantes (LP),0,2,V
+Atl Tucuman,Independiente,4,2,L
+Newells,Argentinos,2,0,L
+San Martin (SJ),Def y Justicia,0,1,V
+Belgrano,Gimnasia (LP),2,0,L
+Union,Patronato,2,2,E
+Aldosivi,Banfield,1,4,V
+Godoy Cruz,Atl Tucuman,1,0,L
+Estudiantes (LP),River Plate,1,0,L
+Boca Juniors,Tigre,4,1,L
+Argentinos,Independiente,0,2,V
+Rosario Central,Colon,1,1,E
+San Lorenzo,Talleres (C),0,1,V
+Racing Club,Newells,1,0,L
+San Martin (T),San Martin (SJ),2,0,L
+Def y Justicia,Velez,3,2,L
+Lanus,Huracan,0,1,V
+Talleres (C),Aldosivi,0,0,E
+Atl Tucuman,Rosario Central,2,1,L
+Colon,Estudiantes (LP),1,1,E
+Independiente,Belgrano,2,1,L
+Gimnasia (LP),Racing Club,0,3,V
+Banfield,Lanus,0,0,E
+Tigre,Argentinos,2,1,L
+Newells,Def y Justicia,0,0,E
+Huracan,Godoy Cruz,2,1,L
+Patronato,San Martin (T),3,3,E
+Velez,San Lorenzo,0,0,E
+River Plate,Union,1,2,V
+San Martin (SJ),Boca Juniors,0,4,V
+Boca Juniors,Patronato,1,0,L
+Gimnasia (LP),San Martin (SJ),0,2,V
+Belgrano,Atl Tucuman,1,3,V
+Argentinos,Talleres (C),0,2,V
+Rosario Central,Estudiantes (LP),2,1,L
+Union,Velez,0,2,V
+San Martin (T),Colon,0,0,E
+Aldosivi,Newells,1,0,L
+Racing Club,Banfield,0,0,E
+Def y Justicia,Tigre,2,1,L
+Lanus,Independiente,1,0,L
+San Lorenzo,Huracan,0,0,E
+Godoy Cruz,River Plate,0,4,V
+Colon,Belgrano,1,1,E
+Newells,Patronato,1,0,L
+Estudiantes (LP),Lanus,1,1,E
+Atl Tucuman,San Martin (T),2,3,V
+Banfield,Argentinos,0,1,V
+Aldosivi,San Lorenzo,2,2,E
+Independiente,Boca Juniors,0,1,V
+River Plate,Gimnasia (LP),3,1,L
+Tigre,Godoy Cruz,1,3,V
+Velez,Rosario Central,2,0,L
+San Martin (SJ),Union,2,0,L
+Talleres (C),Racing Club,1,3,V
+Huracan,Def y Justicia,1,1,E
+San Martin (T),Newells,0,3,V
+San Lorenzo,Estudiantes (LP),1,1,E
+Union,Banfield,0,1,V
+Def y Justicia,Colon,3,0,L
+Lanus,Talleres (C),2,1,L
+Godoy Cruz,Independiente,1,1,E
+Argentinos,Aldosivi,1,2,V
+Gimnasia (LP),Huracan,2,2,E
+Racing Club,San Martin (SJ),1,0,L
+Patronato,Velez,3,3,E
+Belgrano,Tigre,1,2,V
+Rosario Central,River Plate,1,1,E
+Boca Juniors,Atl Tucuman,1,2,V
+Banfield,San Martin (SJ),1,1,E
+Godoy Cruz,Lanus,0,2,V
+Def y Justicia,San Lorenzo,1,0,L
+Tigre,San Martin (T),2,2,E
+Huracan,Rosario Central,2,1,L
+Atl Tucuman,Gimnasia (LP),4,1,L
+Aldosivi,Racing Club,1,3,V
+Belgrano,Union,0,0,E
+Independiente,Talleres (C),1,1,E
+River Plate,Patronato,1,3,V
+Newells,Boca Juniors,1,1,E
+Colon,Argentinos,2,0,L
+Estudiantes (LP),Velez,1,2,V
+Gimnasia (LP),Tigre,3,1,L
+San Martin (T),Def y Justicia,1,2,V
+Talleres (C),Banfield,3,1,L
+San Lorenzo,Independiente,0,0,E
+Lanus,Colon,1,0,L
+Argentinos,Belgrano,0,0,E
+Rosario Central,Aldosivi,0,0,E
+Union,Newells,0,0,E
+Boca Juniors,Godoy Cruz,2,0,L
+Racing Club,Huracan,3,1,L
+Velez,River Plate,1,2,V
+Patronato,Atl Tucuman,3,0,L
+San Martin (SJ),Estudiantes (LP),3,0,L
+Tigre,Banfield,4,4,E
+Lanus,Gimnasia (LP),2,0,L
+Huracan,Velez,1,1,E
+Estudiantes (LP),Patronato,1,0,L
+Independiente,Union,2,1,L
+Atl Tucuman,Talleres (C),0,0,E
+Newells,Rosario Central,0,0,E
+Godoy Cruz,San Martin (T),3,2,L
+River Plate,Racing Club,2,0,L
+Belgrano,Boca Juniors,1,1,E
+Def y Justicia,Argentinos,2,1,L
+Aldosivi,San Martin (SJ),1,0,L
+Colon,San Lorenzo,1,1,E
+Union,Atl Tucuman,3,0,L
+Velez,Colon,1,1,E
+San Martin (T),Belgrano,0,0,E
+San Lorenzo,Newells,1,1,E
+Patronato,Aldosivi,0,0,E
+Gimnasia (LP),Def y Justicia,0,1,V
+San Martin (SJ),Independiente,1,1,E
+Talleres (C),Huracan,0,0,E
+Rosario Central,Tigre,0,2,V
+Boca Juniors,Lanus,2,1,L
+Banfield,River Plate,1,1,E
+Argentinos,Estudiantes (LP),2,1,L
+Racing Club,Godoy Cruz,3,0,L
+Tigre,Patronato,2,1,L
+Colon,Banfield,0,1,V
+Lanus,Rosario Central,2,0,L
+Godoy Cruz,Velez,0,2,V
+Huracan,Union,1,3,V
+Belgrano,San Lorenzo,0,0,E
+Independiente,Racing Club,1,3,V
+River Plate,San Martin (T),2,1,L
+Estudiantes (LP),Talleres (C),0,1,V
+Atl Tucuman,Argentinos,0,0,E
+Def y Justicia,Boca Juniors,0,1,V
+Aldosivi,Gimnasia (LP),0,0,E
+Newells,San Martin (SJ),3,0,L
+San Lorenzo,Argentinos,2,3,V
+Union,Boca Juniors,1,3,V
+Rosario Central,Belgrano,0,0,E
+San Martin (T),Lanus,1,2,V
+San Martin (SJ),Godoy Cruz,0,0,E
+River Plate,Newells,4,2,L
+Patronato,Huracan,1,0,L
+Talleres (C),Colon,2,0,L
+Racing Club,Estudiantes (LP),1,0,L
+Gimnasia (LP),Independiente,1,0,L
+Banfield,Atl Tucuman,1,2,V
+Velez,Tigre,1,2,V
+Aldosivi,Def y Justicia,0,1,V
+Lanus,San Martin (SJ),1,1,E
+Belgrano,Patronato,3,0,L
+Godoy Cruz,Rosario Central,0,0,E
+Newells,Talleres (C),1,2,V
+Colon,Racing Club,1,1,E
+Boca Juniors,San Lorenzo,3,0,L
+Estudiantes (LP),Gimnasia (LP),1,0,L
+Independiente,Aldosivi,2,0,L
+Huracan,San Martin (T),1,3,V
+Atl Tucuman,River Plate,0,1,V
+Tigre,Union,2,2,E
+Def y Justicia,Banfield,3,2,L
+Argentinos,Velez,0,0,E
+Gimnasia (LP),Newells,1,0,L
+Aldosivi,Colon,3,0,L
+Velez,Atl Tucuman,2,0,L
+Union,Lanus,3,0,L
+San Martin (SJ),Argentinos,2,3,V
+Racing Club,Belgrano,1,0,L
+Patronato,Def y Justicia,2,0,L
+Talleres (C),Tigre,1,3,V
+Rosario Central,San Lorenzo,0,1,V
+River Plate,Independiente,3,0,L
+San Martin (T),Boca Juniors,1,4,V
+Banfield,Godoy Cruz,2,2,E
+Huracan,Estudiantes (LP),0,1,V
+Newells,Huracan,3,1,L
+Boca Juniors,Banfield,2,0,L
+San Lorenzo,Gimnasia (LP),1,1,E
+Godoy Cruz,Patronato,2,1,L
+Independiente,Velez,2,1,L
+Talleres (C),River Plate,0,2,V
+Atl Tucuman,Aldosivi,1,0,L
+Lanus,Belgrano,3,1,L
+Argentinos,Rosario Central,0,2,V
+Def y Justicia,Union,1,1,E
+Tigre,Racing Club,1,1,E
+Estudiantes (LP),San Martin (T),1,1,E
+Colon,San Martin (SJ),0,0,E
+San Martin (T),San Lorenzo,0,0,E
+Gimnasia (LP),Colon,3,2,L
+Banfield,Newells,1,1,E
+Union,Estudiantes (LP),0,0,E
+Velez,Lanus,4,0,L
+Aldosivi,Boca Juniors,1,1,E
+Huracan,Atl Tucuman,2,0,L
+Rosario Central,Independiente,1,2,V
+River Plate,Tigre,2,3,V
+Patronato,Argentinos,2,1,L
+Belgrano,Godoy Cruz,1,0,L
+San Martin (SJ),Talleres (C),2,1,L
+Racing Club,Def y Justicia,1,1,E
+Racing Club,Union,0,0,E
+Colon,Patronato,0,1,V
+San Lorenzo,Godoy Cruz,3,2,L
+Lanus,Gimnasia (LP),1,1,E
+Argentinos,River Plate,1,1,E
+Estudiantes (LP),Aldosivi,1,0,L
+Newells,Central Cba (SdE),2,0,L
+Talleres (C),Velez,1,0,L
+Def y Justicia,Independiente,0,1,V
+Boca Juniors,Huracan,0,0,E
+Arsenal,Banfield,1,0,L
+Atl Tucuman,Rosario Central,1,2,V
+Huracan,Colon,2,0,L
+Aldosivi,Argentinos,0,0,E
+Rosario Central,Talleres (C),1,0,L
+Central Cba (SdE),Atl Tucuman,1,0,L
+Velez,Racing Club,2,2,E
+Union,Def y Justicia,2,1,L
+Gimnasia (LP),San Lorenzo,0,1,V
+Banfield,Estudiantes (LP),1,0,L
+River Plate,Lanus,3,0,L
+Patronato,Boca Juniors,0,2,V
+Godoy Cruz,Arsenal,0,2,V
+Independiente,Newells,2,3,V
+Argentinos,Banfield,3,2,L
+Talleres (C),Central Cba (SdE),1,1,E
+Newells,Union,2,0,L
+San Lorenzo,Rosario Central,2,2,E
+Racing Club,River Plate,1,6,V
+Patronato,Huracan,2,1,L
+Def y Justicia,Arsenal,0,3,V
+Lanus,Velez,3,1,L
+Boca Juniors,Aldosivi,2,0,L
+Atl Tucuman,Godoy Cruz,1,0,L
+Colon,Gimnasia (LP),2,1,L
+Estudiantes (LP),Independiente,3,0,L
+Arsenal,San Lorenzo,0,2,V
+Gimnasia (LP),Def y Justicia,0,1,V
+Velez,Newells,3,1,L
+Rosario Central,Patronato,1,1,E
+Independiente,Colon,2,0,L
+Godoy Cruz,Estudiantes (LP),2,1,L
+Union,Lanus,1,2,V
+Central Cba (SdE),Racing Club,0,0,E
+River Plate,Talleres (C),0,1,V
+Banfield,Boca Juniors,0,1,V
+Aldosivi,Atl Tucuman,3,0,L
+Huracan,Argentinos,0,0,E
+Lanus,Central Cba (SdE),1,0,L
+Def y Justicia,Banfield,0,0,E
+Estudiantes (LP),Velez,0,1,V
+Argentinos,Gimnasia (LP),1,0,L
+San Lorenzo,Union,2,1,L
+Patronato,Independiente,1,0,L
+Racing Club,Godoy Cruz,3,1,L
+Atl Tucuman,Arsenal,1,0,L
+Colon,Rosario Central,1,1,E
+Talleres (C),Aldosivi,2,1,L
+Newells,Huracan,4,1,L
+River Plate,Boca Juniors,0,0,E
+Arsenal,Union,4,1,L
+Central Cba (SdE),Def y Justicia,1,2,V
+Godoy Cruz,Argentinos,0,1,V
+Colon,San Lorenzo,2,1,L
+Huracan,River Plate,0,4,V
+Gimnasia (LP),Racing Club,1,2,V
+Banfield,Talleres (C),0,1,V
+Rosario Central,Newells,1,1,E
+Independiente,Lanus,2,2,E
+Boca Juniors,Estudiantes (LP),1,0,L
+Aldosivi,Patronato,1,1,E
+Velez,Atl Tucuman,1,0,L
+Union,Rosario Central,0,0,E
+Argentinos,Central Cba (SdE),3,1,L
+Estudiantes (LP),Patronato,1,0,L
+Def y Justicia,Huracan,0,1,V
+San Lorenzo,Boca Juniors,0,2,V
+Atl Tucuman,Independiente,0,1,V
+Newells,Aldosivi,2,0,L
+Godoy Cruz,Banfield,0,2,V
+Lanus,Colon,3,2,L
+Racing Club,Arsenal,2,1,L
+River Plate,Velez,1,2,V
+Talleres (C),Gimnasia (LP),2,1,L
+Aldosivi,Union,1,2,V
+Patronato,Lanus,1,1,E
+Arsenal,Estudiantes (LP),3,0,L
+Gimnasia (LP),River Plate,0,2,V
+Boca Juniors,Newells,1,1,E
+Banfield,San Lorenzo,0,1,V
+Huracan,Atl Tucuman,0,0,E
+Velez,Def y Justicia,0,1,V
+Rosario Central,Racing Club,1,1,E
+Independiente,Talleres (C),3,2,L
+Central Cba (SdE),Godoy Cruz,1,0,L
+Colon,Argentinos,1,0,L
+Newells,Banfield,0,0,E
+Atl Tucuman,Talleres (C),2,1,L
+Godoy Cruz,Gimnasia (LP),2,4,V
+Argentinos,Arsenal,2,1,L
+San Lorenzo,Central Cba (SdE),1,4,V
+Estudiantes (LP),Huracan,0,0,E
+Racing Club,Aldosivi,2,0,L
+Velez,Independiente,2,0,L
+Lanus,Rosario Central,1,1,E
+Union,Colon,1,0,L
+River Plate,Patronato,2,0,L
+Def y Justicia,Boca Juniors,0,1,V
+Arsenal,River Plate,3,3,E
+Boca Juniors,Racing Club,0,1,V
+Banfield,Atl Tucuman,1,2,V
+Independiente,Argentinos,0,1,V
+Patronato,Newells,1,3,V
+Talleres (C),Lanus,2,4,V
+Aldosivi,Def y Justicia,1,0,L
+Gimnasia (LP),Union,0,1,V
+Huracan,San Lorenzo,2,0,L
+Rosario Central,Velez,0,1,V
+Central Cba (SdE),Estudiantes (LP),0,1,V
+Colon,Godoy Cruz,2,1,L
+Godoy Cruz,Aldosivi,3,2,L
+Estudiantes (LP),Rosario Central,3,0,L
+Atl Tucuman,Patronato,2,0,L
+Newells,Gimnasia (LP),0,4,V
+River Plate,Colon,2,1,L
+Argentinos,Talleres (C),1,0,L
+San Lorenzo,Def y Justicia,1,3,V
+Union,Independiente,2,2,E
+Racing Club,Banfield,0,0,E
+Arsenal,Central Cba (SdE),2,2,E
+Velez,Huracan,0,0,E
+Lanus,Boca Juniors,2,1,L
+Colon,Atl Tucuman,0,2,V
+Gimnasia (LP),Estudiantes (LP),0,1,V
+Rosario Central,Godoy Cruz,5,2,L
+Aldosivi,River Plate,1,2,V
+Boca Juniors,Arsenal,5,1,L
+Banfield,Union,3,3,E
+Talleres (C),Newells,1,0,L
+Patronato,Racing Club,1,1,E
+Independiente,San Lorenzo,2,1,L
+Def y Justicia,Argentinos,0,0,E
+Central Cba (SdE),Velez,0,0,E
+Huracan,Lanus,0,1,V
+Estudiantes (LP),Talleres (C),1,0,L
+Union,Atl Tucuman,0,1,V
+Lanus,Banfield,0,1,V
+San Lorenzo,Argentinos,3,0,L
+Godoy Cruz,Independiente,1,2,V
+Central Cba (SdE),Patronato,3,2,L
+River Plate,Rosario Central,0,1,V
+Aldosivi,Gimnasia (LP),0,3,V
+Newells,Def y Justicia,2,0,L
+Racing Club,Huracan,1,0,L
+Velez,Boca Juniors,0,0,E
+Arsenal,Colon,2,1,L
+Def y Justicia,Lanus,2,0,L
+Huracan,Central Cba (SdE),1,1,E
+Atl Tucuman,San Lorenzo,2,2,E
+Boca Juniors,Union,2,0,L
+Banfield,Velez,1,0,L
+Gimnasia (LP),Arsenal,0,1,V
+Talleres (C),Racing Club,3,3,E
+Colon,Estudiantes (LP),3,2,L
+Patronato,Godoy Cruz,0,2,V
+Rosario Central,Aldosivi,5,1,L
+Argentinos,Newells,1,0,L
+Independiente,River Plate,1,2,V
+Banfield,Gimnasia (LP),1,1,E
+Racing Club,Def y Justicia,1,1,E
+Estudiantes (LP),Atl Tucuman,1,1,E
+Boca Juniors,Argentinos,1,1,E
+Newells,River Plate,2,3,V
+San Lorenzo,Patronato,2,0,L
+Godoy Cruz,Talleres (C),0,5,V
+Velez,Colon,3,1,L
+Aldosivi,Independiente,0,0,E
+Central Cba (SdE),Rosario Central,1,1,E
+Arsenal,Lanus,1,1,E
+Union,Huracan,1,0,L
+Colon,Aldosivi,0,2,V
+Independiente,Banfield,0,1,V
+Huracan,Arsenal,0,2,V
+Talleres (C),Union,0,0,E
+Atl Tucuman,Newells,2,2,E
+Lanus,Racing Club,1,0,L
+Def y Justicia,Godoy Cruz,2,0,L
+Gimnasia (LP),Central Cba (SdE),2,1,L
+Rosario Central,Boca Juniors,1,0,L
+River Plate,San Lorenzo,0,1,V
+Patronato,Velez,0,1,V
+Argentinos,Estudiantes (LP),1,1,E
+Aldosivi,Lanus,2,0,L
+Gimnasia (LP),Velez,0,0,E
+Union,Argentinos,1,0,L
+Rosario Central,Huracan,2,1,L
+Arsenal,Newells,1,1,E
+Central Cba (SdE),Colon,1,0,L
+San Lorenzo,Estudiantes (LP),1,1,E
+Godoy Cruz,River Plate,0,1,V
+Def y Justicia,Talleres (C),4,1,L
+Banfield,Patronato,3,3,E
+Racing Club,Atl Tucuman,1,1,E
+Boca Juniors,Independiente,0,0,E
+Velez,Aldosivi,1,1,E
+Huracan,Gimnasia (LP),1,1,E
+Independiente,Rosario Central,5,0,L
+Estudiantes (LP),Union,3,1,L
+Atl Tucuman,Def y Justicia,1,1,E
+Argentinos,Racing Club,1,1,E
+River Plate,Central Cba (SdE),2,0,L
+Lanus,Godoy Cruz,2,0,L
+Colon,Banfield,0,1,V
+Talleres (C),Boca Juniors,1,2,V
+Patronato,Arsenal,2,2,E
+Newells,San Lorenzo,1,0,L
+Aldosivi,Central Cba (SdE),0,2,V
+Argentinos,Lanus,0,0,E
+Def y Justicia,Colon,0,0,E
+Gimnasia (LP),Patronato,1,1,E
+Banfield,Rosario Central,1,1,E
+Newells,Estudiantes (LP),0,0,E
+Boca Juniors,Atl Tucuman,2,0,L
+San Lorenzo,Velez,1,0,L
+Racing Club,Independiente,1,0,L
+Union,River Plate,1,2,V
+Arsenal,Talleres (C),1,1,E
+Godoy Cruz,Huracan,2,1,L
+Patronato,Union,1,0,L
+Colon,Racing Club,1,1,E
+Huracan,Aldosivi,0,2,V
+Atl Tucuman,Argentinos,0,2,V
+Rosario Central,Gimnasia (LP),1,0,L
+Talleres (C),San Lorenzo,1,0,L
+Lanus,Newells,1,1,E
+River Plate,Banfield,1,0,L
+Central Cba (SdE),Boca Juniors,0,4,V
+Estudiantes (LP),Def y Justicia,1,2,V
+Independiente,Arsenal,1,1,E
+Velez,Godoy Cruz,0,1,V
+Banfield,Aldosivi,0,1,V
+Argentinos,Patronato,1,1,E
+San Lorenzo,Racing Club,0,1,V
+Independiente,Gimnasia (LP),0,1,V
+Newells,Colon,4,0,L
+Atl Tucuman,Lanus,2,2,E
+Arsenal,Velez,0,4,V
+Boca Juniors,Godoy Cruz,3,0,L
+Estudiantes (LP),River Plate,0,2,V
+Def y Justicia,Rosario Central,3,0,L
+Union,Central Cba (SdE),0,0,E
+Talleres (C),Huracan,4,2,L
+Racing Club,Newells,1,1,E
+Colon,Boca Juniors,0,4,V
+Gimnasia (LP),Atl Tucuman,1,0,L
+River Plate,Def y Justicia,1,1,E
+Godoy Cruz,Union,1,3,V
+Central Cba (SdE),Banfield,1,1,E
+Aldosivi,San Lorenzo,1,3,V
+Lanus,Estudiantes (LP),1,1,E
+Rosario Central,Arsenal,3,1,L
+Velez,Argentinos,2,0,L
+Patronato,Talleres (C),3,2,L
+Huracan,Independiente,1,0,L
+Arsenal,Aldosivi,4,0,L
+Argentinos,Rosario Central,2,1,L
+Banfield,Huracan,0,3,V
+Def y Justicia,Patronato,2,0,L
+Boca Juniors,Gimnasia (LP),1,0,L
+Atl Tucuman,River Plate,1,1,E
+San Lorenzo,Lanus,4,3,L
+Independiente,Central Cba (SdE),3,0,L
+Newells,Godoy Cruz,0,2,V
+Talleres (C),Colon,2,0,L
+Union,Velez,0,3,V
+Estudiantes (LP),Racing Club,1,2,V
+Union,Boca Juniors,1,1,E
+Sarmiento (J),Estudiantes (LP),0,3,V
+Aldosivi,Patronato,0,2,V
+Lanus,Atl Tucuman,4,2,L
+Newells,Talleres (C),3,2,L
+Gimnasia (LP),Platense,2,2,E
+Velez,Racing Club,0,0,E
+Huracan,Def y Justicia,2,1,L
+Arsenal,San Lorenzo,1,1,E
+River Plate,Colon,1,2,V
+Independiente,Argentinos,0,0,E
+Central Cba (SdE),Banfield,1,1,E
+Godoy Cruz,Rosario Central,2,1,L
+Atl Tucuman,Huracan,1,0,L
+Platense,Aldosivi,0,1,V
+Colon,Lanus,1,4,V
+San Lorenzo,Central Cba (SdE),1,0,L
+Racing Club,Gimnasia (LP),0,0,E
+Banfield,Boca Juniors,0,0,E
+Def y Justicia,Godoy Cruz,1,2,V
+Patronato,Sarmiento (J),2,0,L
+Rosario Central,Velez,1,0,L
+River Plate,Union,4,0,L
+Estudiantes (LP),Independiente,0,1,V
+Talleres (C),Arsenal,2,0,L
+Argentinos,Newells,1,0,L
+Huracan,Colon,1,1,E
+Aldosivi,Racing Club,0,2,V
+Boca Juniors,San Lorenzo,0,2,V
+Union,Banfield,0,1,V
+Godoy Cruz,Atl Tucuman,1,2,V
+Velez,Def y Justicia,0,0,E
+Sarmiento (J),Platense,1,0,L
+Independiente,Patronato,2,0,L
+Lanus,River Plate,0,3,V
+Central Cba (SdE),Talleres (C),2,1,L
+Arsenal,Argentinos,1,0,L
+Gimnasia (LP),Rosario Central,1,0,L
+Newells,Estudiantes (LP),4,2,L
+Colon,Godoy Cruz,1,0,L
+Lanus,Union,1,1,E
+Racing Club,Sarmiento (J),1,0,L
+Platense,Independiente,1,1,E
+Def y Justicia,Gimnasia (LP),3,2,L
+Talleres (C),Boca Juniors,0,0,E
+River Plate,Huracan,1,1,E
+San Lorenzo,Banfield,1,1,E
+Patronato,Newells,0,0,E
+Argentinos,Central Cba (SdE),1,1,E
+Estudiantes (LP),Arsenal,4,0,L
+Rosario Central,Aldosivi,1,2,V
+Atl Tucuman,Velez,0,0,E
+Sarmiento (J),Rosario Central,1,0,L
+Newells,Platense,1,0,L
+Banfield,Talleres (C),0,1,V
+Union,San Lorenzo,4,0,L
+Huracan,Lanus,0,1,V
+Godoy Cruz,River Plate,2,1,L
+Gimnasia (LP),Atl Tucuman,1,0,L
+Velez,Colon,0,1,V
+Boca Juniors,Argentinos,1,1,E
+Independiente,Racing Club,1,0,L
+Arsenal,Patronato,2,2,E
+Aldosivi,Def y Justicia,1,0,L
+Central Cba (SdE),Estudiantes (LP),1,2,V
+Colon,Gimnasia (LP),1,0,L
+Huracan,Union,0,0,E
+Atl Tucuman,Aldosivi,2,2,E
+Argentinos,Banfield,2,0,L
+River Plate,Velez,2,0,L
+Rosario Central,Independiente,1,2,V
+Patronato,Central Cba (SdE),1,0,L
+Platense,Arsenal,2,1,L
+Estudiantes (LP),Boca Juniors,1,0,L
+Racing Club,Newells,2,0,L
+Talleres (C),San Lorenzo,2,0,L
+Def y Justicia,Sarmiento (J),4,2,L
+Lanus,Godoy Cruz,3,1,L
+Aldosivi,Colon,3,0,L
+Sarmiento (J),Atl Tucuman,3,0,L
+Banfield,Estudiantes (LP),1,1,E
+Independiente,Def y Justicia,0,0,E
+Central Cba (SdE),Platense,2,2,E
+Godoy Cruz,Huracan,1,1,E
+Velez,Lanus,5,1,L
+Arsenal,Racing Club,0,3,V
+Boca Juniors,Patronato,1,0,L
+Union,Talleres (C),1,2,V
+Newells,Rosario Central,1,1,E
+San Lorenzo,Argentinos,0,1,V
+Gimnasia (LP),River Plate,1,1,E
+Patronato,Banfield,1,1,E
+Colon,Sarmiento (J),1,1,E
+Atl Tucuman,Independiente,2,0,L
+Racing Club,Central Cba (SdE),0,0,E
+Rosario Central,Arsenal,4,0,L
+Def y Justicia,Newells,2,0,L
+Lanus,Gimnasia (LP),2,0,L
+Huracan,Velez,1,1,E
+Platense,Boca Juniors,1,3,V
+Godoy Cruz,Union,1,2,V
+Argentinos,Talleres (C),1,2,V
+Estudiantes (LP),San Lorenzo,2,0,L
+River Plate,Aldosivi,2,0,L
+Gimnasia (LP),Huracan,0,0,E
+Banfield,Platense,2,4,V
+Independiente,Colon,3,0,L
+Arsenal,Def y Justicia,0,0,E
+Aldosivi,Lanus,2,3,V
+Central Cba (SdE),Rosario Central,2,4,V
+Velez,Godoy Cruz,3,0,L
+Boca Juniors,Racing Club,0,0,E
+Union,Argentinos,1,0,L
+Newells,Atl Tucuman,1,2,V
+San Lorenzo,Patronato,3,0,L
+Sarmiento (J),River Plate,1,2,V
+Talleres (C),Estudiantes (LP),2,0,L
+Def y Justicia,Central Cba (SdE),1,1,E
+Huracan,Aldosivi,2,0,L
+Atl Tucuman,Arsenal,0,0,E
+Lanus,Sarmiento (J),1,1,E
+Colon,Newells,1,1,E
+Platense,San Lorenzo,1,1,E
+Rosario Central,Boca Juniors,1,2,V
+Godoy Cruz,Gimnasia (LP),4,0,L
+Patronato,Talleres (C),0,0,E
+Racing Club,Banfield,0,0,E
+River Plate,Independiente,1,1,E
+Estudiantes (LP),Argentinos,1,1,E
+Velez,Union,4,0,L
+Sarmiento (J),Huracan,0,0,E
+Aldosivi,Godoy Cruz,1,4,V
+Independiente,Lanus,0,1,V
+San Lorenzo,Racing Club,1,1,E
+Gimnasia (LP),Velez,0,0,E
+Talleres (C),Platense,2,1,L
+Arsenal,Colon,0,0,E
+Central Cba (SdE),Atl Tucuman,2,0,L
+Boca Juniors,Def y Justicia,0,0,E
+Union,Estudiantes (LP),0,2,V
+Argentinos,Patronato,1,1,E
+Banfield,Rosario Central,1,2,V
+Newells,River Plate,1,4,V
+Godoy Cruz,Sarmiento (J),1,1,E
+Velez,Aldosivi,3,2,L
+Racing Club,Talleres (C),1,2,V
+Atl Tucuman,Boca Juniors,1,2,V
+Patronato,Estudiantes (LP),1,2,V
+Platense,Argentinos,0,0,E
+Colon,Central Cba (SdE),1,0,L
+Huracan,Independiente,0,1,V
+River Plate,Arsenal,1,0,L
+Gimnasia (LP),Union,1,0,L
+Lanus,Newells,1,2,V
+Rosario Central,San Lorenzo,1,0,L
+Def y Justicia,Banfield,0,0,E
+Sarmiento (J),Velez,0,1,V
+Estudiantes (LP),Platense,1,1,E
+Aldosivi,Gimnasia (LP),1,3,V
+Arsenal,Lanus,1,0,L
+Talleres (C),Rosario Central,4,1,L
+Banfield,Atl Tucuman,2,0,L
+Central Cba (SdE),River Plate,1,3,V
+Union,Patronato,2,0,L
+San Lorenzo,Def y Justicia,2,1,L
+Independiente,Godoy Cruz,1,4,V
+Boca Juniors,Colon,1,0,L
+Argentinos,Racing Club,2,0,L
+Newells,Huracan,0,1,V
+Aldosivi,Union,1,2,V
+Lanus,Central Cba (SdE),2,1,L
+Platense,Patronato,0,0,E
+Godoy Cruz,Newells,2,2,E
+Huracan,Arsenal,1,0,L
+Atl Tucuman,San Lorenzo,0,0,E
+Velez,Independiente,3,3,E
+Gimnasia (LP),Sarmiento (J),0,1,V
+Rosario Central,Argentinos,0,1,V
+River Plate,Boca Juniors,2,1,L
+Racing Club,Estudiantes (LP),1,1,E
+Def y Justicia,Talleres (C),3,0,L
+Colon,Banfield,0,0,E
+Union,Platense,1,2,V
+Central Cba (SdE),Huracan,1,2,V
+Estudiantes (LP),Rosario Central,2,2,E
+Newells,Velez,1,2,V
+Sarmiento (J),Aldosivi,3,0,L
+Argentinos,Def y Justicia,0,2,V
+Patronato,Racing Club,1,2,V
+Banfield,River Plate,0,1,V
+Boca Juniors,Lanus,4,2,L
+Arsenal,Godoy Cruz,0,0,E
+San Lorenzo,Colon,1,2,V
+Independiente,Gimnasia (LP),1,1,E
+Talleres (C),Atl Tucuman,2,0,L
+Godoy Cruz,Central Cba (SdE),0,0,E
+Rosario Central,Patronato,3,2,L
+Racing Club,Platense,0,1,V
+Def y Justicia,Estudiantes (LP),2,1,L
+Velez,Arsenal,0,0,E
+Sarmiento (J),Union,3,4,V
+Gimnasia (LP),Newells,1,0,L
+Lanus,Banfield,1,1,E
+Huracan,Boca Juniors,0,3,V
+Colon,Talleres (C),1,0,L
+Atl Tucuman,Argentinos,4,3,L
+Aldosivi,Independiente,1,0,L
+River Plate,San Lorenzo,3,1,L
+Platense,Rosario Central,1,1,E
+Union,Racing Club,1,1,E
+Patronato,Def y Justicia,3,3,E
+Central Cba (SdE),Velez,1,2,V
+Arsenal,Gimnasia (LP),0,1,V
+San Lorenzo,Lanus,1,3,V
+Estudiantes (LP),Atl Tucuman,1,1,E
+Banfield,Huracan,1,4,V
+Boca Juniors,Godoy Cruz,2,1,L
+Argentinos,Colon,3,1,L
+Newells,Aldosivi,0,0,E
+Independiente,Sarmiento (J),1,1,E
+Talleres (C),River Plate,0,2,V
+Gimnasia (LP),Central Cba (SdE),2,2,E
+Def y Justicia,Platense,2,1,L
+Rosario Central,Racing Club,2,1,L
+Godoy Cruz,Banfield,2,1,L
+Colon,Estudiantes (LP),2,1,L
+Huracan,San Lorenzo,2,1,L
+Velez,Boca Juniors,2,0,L
+Aldosivi,Arsenal,2,1,L
+Sarmiento (J),Newells,2,1,L
+Atl Tucuman,Patronato,2,2,E
+Lanus,Talleres (C),3,3,E
+River Plate,Argentinos,3,0,L
+Independiente,Union,1,0,L
+Racing Club,Def y Justicia,1,2,V
+Argentinos,Lanus,0,1,V
+Platense,Atl Tucuman,4,1,L
+Arsenal,Sarmiento (J),1,0,L
+Banfield,Velez,2,1,L
+Talleres (C),Huracan,1,0,L
+Boca Juniors,Gimnasia (LP),0,1,V
+San Lorenzo,Godoy Cruz,1,0,L
+Union,Rosario Central,3,1,L
+Newells,Independiente,1,0,L
+Estudiantes (LP),River Plate,1,1,E
+Patronato,Colon,2,0,L
+Central Cba (SdE),Aldosivi,0,0,E
+Def y Justicia,Rosario Central,3,0,L
+Lanus,Estudiantes (LP),1,1,E
+Godoy Cruz,Talleres (C),0,2,V
+Colon,Platense,3,0,L
+Independiente,Arsenal,3,0,L
+Atl Tucuman,Racing Club,0,2,V
+Gimnasia (LP),Banfield,0,1,V
+Sarmiento (J),Central Cba (SdE),1,3,V
+Velez,San Lorenzo,2,1,L
+River Plate,Patronato,5,0,L
+Newells,Union,1,0,L
+Huracan,Argentinos,1,1,E
+Aldosivi,Boca Juniors,0,3,V
+Union,Def y Justicia,2,3,V
+Patronato,Lanus,3,2,L
+Banfield,Aldosivi,0,2,V
+Estudiantes (LP),Huracan,4,1,L
+San Lorenzo,Gimnasia (LP),0,1,V
+Argentinos,Godoy Cruz,0,0,E
+Talleres (C),Velez,1,1,E
+Rosario Central,Atl Tucuman,3,1,L
+Boca Juniors,Sarmiento (J),2,0,L
+Central Cba (SdE),Independiente,1,0,L
+Arsenal,Newells,3,1,L
+Racing Club,Colon,1,2,V
+Platense,River Plate,0,1,V
+Huracan,Patronato,1,0,L
+Gimnasia (LP),Talleres (C),5,2,L
+Aldosivi,San Lorenzo,2,0,L
+Godoy Cruz,Estudiantes (LP),1,3,V
+Velez,Argentinos,2,0,L
+Sarmiento (J),Banfield,0,0,E
+Newells,Central Cba (SdE),1,0,L
+Atl Tucuman,Def y Justicia,0,4,V
+Independiente,Boca Juniors,1,0,L
+Arsenal,Union,0,1,V
+Colon,Rosario Central,1,4,V
+Lanus,Platense,3,3,E
+River Plate,Racing Club,4,0,L
+Talleres (C),Aldosivi,2,0,L
+Patronato,Godoy Cruz,0,3,V
+Estudiantes (LP),Velez,1,0,L
+Rosario Central,River Plate,2,2,E
+Argentinos,Gimnasia (LP),3,0,L
+Def y Justicia,Colon,1,1,E
+Union,Atl Tucuman,3,0,L
+Racing Club,Lanus,3,1,L
+Central Cba (SdE),Arsenal,5,0,L
+Platense,Huracan,4,2,L
+San Lorenzo,Sarmiento (J),1,0,L
+Boca Juniors,Newells,0,0,E
+Banfield,Independiente,4,1,L
+Colon,Atl Tucuman,3,0,L
+Central Cba (SdE),Union,2,0,L
+Velez,Patronato,0,0,E
+Arsenal,Boca Juniors,1,1,E
+Godoy Cruz,Platense,2,2,E
+Sarmiento (J),Talleres (C),1,2,V
+Lanus,Rosario Central,2,2,E
+Huracan,Racing Club,1,0,L
+Gimnasia (LP),Estudiantes (LP),4,4,E
+Independiente,San Lorenzo,1,1,E
+River Plate,Def y Justicia,2,3,V
+Aldosivi,Argentinos,3,2,L
+Newells,Banfield,0,0,E
+Platense,Velez,3,2,L
+Estudiantes (LP),Aldosivi,2,3,V
+Patronato,Gimnasia (LP),0,0,E
+Argentinos,Sarmiento (J),2,0,L
+Racing Club,Godoy Cruz,2,1,L
+Union,Colon,3,0,L
+Rosario Central,Huracan,1,4,V
+Atl Tucuman,River Plate,1,1,E
+Boca Juniors,Central Cba (SdE),8,1,L
+San Lorenzo,Newells,3,2,L
+Def y Justicia,Lanus,2,1,L
+Talleres (C),Independiente,1,2,V
+Banfield,Arsenal,0,0,E
+Barracas Central,Central Cba (SdE),1,1,E
+Atl Tucuman,Colon,1,1,E
+San Lorenzo,Independiente,1,1,E
+Banfield,Newells,1,2,V
+Patronato,Velez,1,1,E
+Platense,Godoy Cruz,2,1,L
+Racing Club,Huracan,2,0,L
+Talleres (C),Sarmiento (J),2,0,L
+Union,Tigre,1,2,V
+Estudiantes (LP),Gimnasia (LP),1,1,E
+Boca Juniors,Arsenal,2,1,L
+Def y Justicia,River Plate,0,0,E
+Rosario Central,Lanus,0,0,E
+Argentinos,Aldosivi,2,1,L
+Newells,San Lorenzo,0,0,E
+Gimnasia (LP),Patronato,2,0,L
+Aldosivi,Estudiantes (LP),0,1,V
+Lanus,Def y Justicia,1,1,E
+Independiente,Talleres (C),1,0,L
+Huracan,Rosario Central,2,0,L
+Tigre,Barracas Central,1,1,E
+Arsenal,Banfield,0,0,E
+Sarmiento (J),Argentinos,1,0,L
+River Plate,Atl Tucuman,0,0,E
+Colon,Union,2,2,E
+Godoy Cruz,Racing Club,2,0,L
+Velez,Platense,0,1,V
+Central Cba (SdE),Boca Juniors,1,0,L
+San Lorenzo,Arsenal,3,3,E
+Patronato,Aldosivi,1,0,L
+Talleres (C),Newells,0,1,V
+Def y Justicia,Huracan,1,1,E
+Estudiantes (LP),Sarmiento (J),2,1,L
+Barracas Central,Union,1,2,V
+Banfield,Central Cba (SdE),2,1,L
+Atl Tucuman,Lanus,2,1,L
+Colon,River Plate,1,0,L
+Boca Juniors,Tigre,5,3,L
+Argentinos,Independiente,2,1,L
+Rosario Central,Godoy Cruz,1,0,L
+Platense,Gimnasia (LP),1,1,E
+Racing Club,Velez,2,0,L
+Arsenal,Talleres (C),1,1,E
+Sarmiento (J),Patronato,3,1,L
+Tigre,Banfield,0,1,V
+Huracan,Atl Tucuman,0,0,E
+Lanus,Colon,1,0,L
+Union,River Plate,1,5,V
+Barracas Central,Boca Juniors,1,3,V
+Godoy Cruz,Def y Justicia,2,1,L
+Gimnasia (LP),Racing Club,3,1,L
+Velez,Rosario Central,2,0,L
+Independiente,Estudiantes (LP),2,1,L
+Newells,Argentinos,1,0,L
+Aldosivi,Platense,0,0,E
+Central Cba (SdE),San Lorenzo,0,2,V
+Rosario Central,Gimnasia (LP),0,1,V
+Banfield,Barracas Central,1,1,E
+Boca Juniors,Union,1,2,V
+Def y Justicia,Velez,1,1,E
+Talleres (C),Central Cba (SdE),0,2,V
+Estudiantes (LP),Newells,0,2,V
+Colon,Huracan,0,1,V
+River Plate,Lanus,2,1,L
+San Lorenzo,Tigre,1,1,E
+Platense,Sarmiento (J),0,0,E
+Racing Club,Aldosivi,5,0,L
+Argentinos,Arsenal,1,1,E
+Patronato,Independiente,3,1,L
+Atl Tucuman,Godoy Cruz,1,1,E
+Central Cba (SdE),Argentinos,1,2,V
+Boca Juniors,Banfield,0,3,V
+Tigre,Talleres (C),1,1,E
+Godoy Cruz,Colon,1,0,L
+Velez,Atl Tucuman,0,1,V
+Gimnasia (LP),Def y Justicia,1,0,L
+Union,Lanus,3,0,L
+Barracas Central,San Lorenzo,2,1,L
+Sarmiento (J),Racing Club,1,1,E
+Huracan,River Plate,3,2,L
+Arsenal,Estudiantes (LP),2,1,L
+Newells,Patronato,2,2,E
+Aldosivi,Rosario Central,2,1,L
+Independiente,Platense,1,3,V
+Rosario Central,Sarmiento (J),1,0,L
+Patronato,Arsenal,0,1,V
+San Lorenzo,Boca Juniors,2,1,L
+Banfield,Union,2,3,V
+Platense,Newells,1,1,E
+Talleres (C),Barracas Central,0,2,V
+Estudiantes (LP),Central Cba (SdE),2,2,E
+Racing Club,Independiente,1,0,L
+Atl Tucuman,Gimnasia (LP),2,0,L
+Lanus,Huracan,2,3,V
+River Plate,Godoy Cruz,0,2,V
+Def y Justicia,Aldosivi,3,2,L
+Colon,Velez,2,1,L
+Argentinos,Tigre,2,1,L
+Central Cba (SdE),Patronato,1,3,V
+Sarmiento (J),Def y Justicia,2,0,L
+Arsenal,Platense,1,1,E
+Aldosivi,Atl Tucuman,0,1,V
+Independiente,Rosario Central,0,0,E
+Gimnasia (LP),Colon,0,0,E
+Newells,Racing Club,0,0,E
+Boca Juniors,Talleres (C),1,0,L
+Union,Huracan,0,0,E
+Godoy Cruz,Lanus,2,1,L
+Banfield,San Lorenzo,1,1,E
+Tigre,Estudiantes (LP),2,1,L
+Velez,River Plate,2,2,E
+Colon,Aldosivi,1,1,E
+Platense,Central Cba (SdE),2,0,L
+Racing Club,Arsenal,1,1,E
+Atl Tucuman,Sarmiento (J),1,0,L
+Argentinos,Boca Juniors,2,0,L
+San Lorenzo,Union,2,2,E
+Patronato,Tigre,1,0,L
+Def y Justicia,Independiente,2,1,L
+Estudiantes (LP),Barracas Central,3,1,L
+Huracan,Godoy Cruz,0,0,E
+Lanus,Velez,2,2,E
+Rosario Central,Newells,1,0,L
+Talleres (C),Banfield,1,0,L
+River Plate,Gimnasia (LP),1,0,L
+Sarmiento (J),Colon,1,3,V
+Central Cba (SdE),Racing Club,1,3,V
+Independiente,Atl Tucuman,0,1,V
+Tigre,Platense,3,0,L
+Aldosivi,River Plate,0,3,V
+Gimnasia (LP),Lanus,1,0,L
+Boca Juniors,Estudiantes (LP),3,1,L
+San Lorenzo,Talleres (C),1,1,E
+Banfield,Argentinos,1,1,E
+Newells,Def y Justicia,1,2,V
+Union,Godoy Cruz,2,1,L
+Velez,Huracan,1,1,E
+Arsenal,Rosario Central,0,3,V
+Barracas Central,Patronato,2,1,L
+Godoy Cruz,Velez,1,1,E
+Argentinos,San Lorenzo,0,1,V
+Estudiantes (LP),Banfield,0,0,E
+Huracan,Gimnasia (LP),0,1,V
+Atl Tucuman,Newells,2,0,L
+Platense,Barracas Central,0,0,E
+Lanus,Aldosivi,0,1,V
+Racing Club,Tigre,3,3,E
+Patronato,Boca Juniors,3,0,L
+River Plate,Sarmiento (J),1,2,V
+Def y Justicia,Arsenal,0,0,E
+Rosario Central,Central Cba (SdE),0,3,V
+Colon,Independiente,0,3,V
+Talleres (C),Union,2,2,E
+Gimnasia (LP),Godoy Cruz,2,0,L
+Banfield,Patronato,0,0,E
+Sarmiento (J),Lanus,2,1,L
+Arsenal,Atl Tucuman,3,1,L
+Barracas Central,Racing Club,0,0,E
+Union,Velez,2,1,L
+Talleres (C),Argentinos,2,0,L
+Boca Juniors,Platense,2,1,L
+Aldosivi,Huracan,0,1,V
+San Lorenzo,Estudiantes (LP),0,0,E
+Independiente,River Plate,0,1,V
+Newells,Colon,0,0,E
+Central Cba (SdE),Def y Justicia,1,0,L
+Tigre,Rosario Central,3,1,L
+Godoy Cruz,Aldosivi,2,0,L
+Atl Tucuman,Central Cba (SdE),1,0,L
+Colon,Arsenal,1,1,E
+Huracan,Sarmiento (J),4,1,L
+Platense,Banfield,3,1,L
+Patronato,San Lorenzo,3,2,L
+Def y Justicia,Tigre,0,0,E
+Rosario Central,Barracas Central,3,1,L
+Lanus,Independiente,1,1,E
+River Plate,Newells,4,1,L
+Velez,Gimnasia (LP),1,1,E
+Estudiantes (LP),Talleres (C),1,0,L
+Argentinos,Union,2,0,L
+Racing Club,Boca Juniors,0,0,E
+Sarmiento (J),Godoy Cruz,1,2,V
+Central Cba (SdE),Colon,3,0,L
+San Lorenzo,Platense,2,0,L
+Independiente,Huracan,1,1,E
+Tigre,Atl Tucuman,0,0,E
+Newells,Lanus,2,0,L
+Arsenal,River Plate,0,0,E
+Boca Juniors,Rosario Central,0,0,E
+Barracas Central,Def y Justicia,3,1,L
+Aldosivi,Velez,3,2,L
+Talleres (C),Patronato,3,3,E
+Union,Gimnasia (LP),0,2,V
+Argentinos,Estudiantes (LP),1,0,L
+Banfield,Racing Club,0,2,V
+Colon,Tigre,2,1,L
+Huracan,Newells,1,0,L
+Lanus,Arsenal,1,0,L
+Godoy Cruz,Independiente,1,1,E
+River Plate,Central Cba (SdE),3,0,L
+Def y Justicia,Boca Juniors,0,1,V
+Estudiantes (LP),Union,1,0,L
+Rosario Central,Banfield,0,1,V
+Racing Club,San Lorenzo,1,2,V
+Platense,Talleres (C),0,0,E
+Velez,Sarmiento (J),1,1,E
+Patronato,Argentinos,0,0,E
+Gimnasia (LP),Aldosivi,0,0,E
+Atl Tucuman,Barracas Central,4,0,L
+Central Cba (SdE),Lanus,2,2,E
+Arsenal,Huracan,1,1,E
+San Lorenzo,Rosario Central,1,1,E
+Newells,Godoy Cruz,1,2,V
+Banfield,Def y Justicia,1,2,V
+Talleres (C),Racing Club,1,1,E
+Argentinos,Platense,0,2,V
+Tigre,River Plate,1,1,E
+Barracas Central,Colon,1,0,L
+Sarmiento (J),Gimnasia (LP),0,0,E
+Independiente,Velez,1,1,E
+Boca Juniors,Atl Tucuman,2,1,L
+Union,Aldosivi,0,0,E
+Estudiantes (LP),Patronato,1,0,L
+Huracan,Central Cba (SdE),2,0,L
+Lanus,Tigre,1,2,V
+Rosario Central,Talleres (C),1,0,L
+Velez,Newells,0,1,V
+Aldosivi,Sarmiento (J),1,2,V
+Racing Club,Argentinos,1,0,L
+Gimnasia (LP),Independiente,3,1,L
+Platense,Estudiantes (LP),0,0,E
+Patronato,Union,0,0,E
+Colon,Boca Juniors,1,2,V
+River Plate,Barracas Central,2,0,L
+Def y Justicia,San Lorenzo,0,0,E
+Godoy Cruz,Arsenal,1,0,L
+Atl Tucuman,Banfield,0,0,E
+Independiente,Aldosivi,3,0,L
+Argentinos,Rosario Central,2,1,L
+Union,Sarmiento (J),1,0,L
+Barracas Central,Lanus,2,0,L
+Patronato,Platense,1,0,L
+Estudiantes (LP),Racing Club,1,0,L
+Tigre,Huracan,1,1,E
+Central Cba (SdE),Godoy Cruz,3,0,L
+San Lorenzo,Atl Tucuman,1,1,E
+Banfield,Colon,2,1,L
+Newells,Gimnasia (LP),2,0,L
+Arsenal,Velez,2,2,E
+Boca Juniors,River Plate,1,0,L
+Talleres (C),Def y Justicia,1,0,L
+Sarmiento (J),Independiente,1,2,V
+Huracan,Barracas Central,1,1,E
+Godoy Cruz,Tigre,1,1,E
+Racing Club,Patronato,1,0,L
+Platense,Union,1,0,L
+Aldosivi,Newells,1,2,V
+Colon,San Lorenzo,0,0,E
+River Plate,Banfield,1,2,V
+Lanus,Boca Juniors,0,1,V
+Def y Justicia,Argentinos,2,1,L
+Rosario Central,Estudiantes (LP),1,1,E
+Gimnasia (LP),Arsenal,2,0,L
+Atl Tucuman,Talleres (C),1,1,E
+Velez,Central Cba (SdE),3,1,L
+Barracas Central,Godoy Cruz,3,1,L
+Newells,Sarmiento (J),0,1,V
+Tigre,Velez,2,0,L
+San Lorenzo,River Plate,0,1,V
+Banfield,Lanus,1,2,V
+Platense,Racing Club,0,1,V
+Talleres (C),Colon,2,0,L
+Arsenal,Aldosivi,3,0,L
+Boca Juniors,Huracan,0,0,E
+Union,Independiente,0,1,V
+Argentinos,Atl Tucuman,1,2,V
+Estudiantes (LP),Def y Justicia,1,2,V
+Patronato,Rosario Central,0,0,E
+Central Cba (SdE),Gimnasia (LP),1,0,L
+Godoy Cruz,Boca Juniors,0,1,V
+Huracan,Banfield,3,1,L
+Sarmiento (J),Arsenal,2,0,L
+Def y Justicia,Patronato,2,1,L
+Lanus,San Lorenzo,2,0,L
+River Plate,Talleres (C),0,1,V
+Independiente,Newells,1,0,L
+Gimnasia (LP),Tigre,0,1,V
+Rosario Central,Platense,1,1,E
+Racing Club,Union,2,1,L
+Atl Tucuman,Estudiantes (LP),3,1,L
+Velez,Barracas Central,1,0,L
+Colon,Argentinos,0,4,V
+Aldosivi,Central Cba (SdE),0,3,V
+Barracas Central,Gimnasia (LP),1,1,E
+Tigre,Aldosivi,3,0,L
+Estudiantes (LP),Colon,2,4,V
+Racing Club,Rosario Central,4,3,L
+Union,Newells,0,1,V
+Platense,Def y Justicia,0,0,E
+Central Cba (SdE),Sarmiento (J),0,0,E
+San Lorenzo,Huracan,1,0,L
+Banfield,Godoy Cruz,1,1,E
+Arsenal,Independiente,0,1,V
+Patronato,Atl Tucuman,2,1,L
+Boca Juniors,Velez,1,0,L
+Talleres (C),Lanus,0,1,V
+Argentinos,River Plate,0,3,V
+Rosario Central,Union,1,1,E
+Aldosivi,Barracas Central,2,0,L
+Godoy Cruz,San Lorenzo,0,0,E
+Newells,Arsenal,0,0,E
+Sarmiento (J),Tigre,2,2,E
+Velez,Banfield,1,0,L
+Colon,Patronato,1,0,L
+Atl Tucuman,Platense,2,1,L
+Def y Justicia,Racing Club,3,3,E
+River Plate,Estudiantes (LP),5,0,L
+Independiente,Central Cba (SdE),1,2,V
+Huracan,Talleres (C),1,0,L
+Lanus,Argentinos,0,4,V
+Gimnasia (LP),Boca Juniors,1,2,V
+Barracas Central,Sarmiento (J),1,1,E
+San Lorenzo,Velez,1,0,L
+Union,Arsenal,1,0,L
+Platense,Colon,1,2,V
+Tigre,Independiente,2,1,L
+Banfield,Gimnasia (LP),0,2,V
+Talleres (C),Godoy Cruz,3,1,L
+Boca Juniors,Aldosivi,2,1,L
+Patronato,River Plate,0,1,V
+Argentinos,Huracan,1,1,E
+Rosario Central,Def y Justicia,0,0,E
+Estudiantes (LP),Lanus,3,1,L
+Racing Club,Atl Tucuman,2,0,L
+Central Cba (SdE),Newells,0,3,V
+Aldosivi,Banfield,0,1,V
+Gimnasia (LP),San Lorenzo,0,1,V
+Sarmiento (J),Boca Juniors,0,1,V
+Independiente,Barracas Central,2,2,E
+River Plate,Platense,2,1,L
+Velez,Talleres (C),2,1,L
+Lanus,Patronato,0,1,V
+Godoy Cruz,Argentinos,0,0,E
+Newells,Tigre,0,2,V
+Atl Tucuman,Rosario Central,1,1,E
+Colon,Racing Club,0,2,V
+Huracan,Estudiantes (LP),3,1,L
+Def y Justicia,Union,1,0,L
+Arsenal,Central Cba (SdE),2,0,L
+Aldosivi,Talleres (C),1,3,V
+Newells,Boca Juniors,2,0,L
+Godoy Cruz,Patronato,0,1,V
+Independiente,Banfield,1,0,L
+River Plate,Rosario Central,1,2,V
+Arsenal,Barracas Central,1,2,V
+Gimnasia (LP),Argentinos,0,0,E
+Velez,Estudiantes (LP),4,0,L
+Atl Tucuman,Union,1,1,E
+Sarmiento (J),San Lorenzo,2,4,V
+Colon,Def y Justicia,1,2,V
+Lanus,Racing Club,0,1,V
+Huracan,Platense,2,0,L
+Central Cba (SdE),Tigre,1,2,V
+Union,Central Cba (SdE),1,4,V
+San Lorenzo,Aldosivi,3,0,L
+Estudiantes (LP),Godoy Cruz,2,0,L
+Def y Justicia,Atl Tucuman,3,1,L
+Argentinos,Velez,2,0,L
+Banfield,Sarmiento (J),0,0,E
+Talleres (C),Gimnasia (LP),2,1,L
+Boca Juniors,Independiente,2,2,E
+Racing Club,River Plate,1,2,V
+Patronato,Huracan,3,2,L
+Barracas Central,Newells,1,1,E
+Rosario Central,Colon,1,1,E
+Tigre,Arsenal,1,4,V
+Platense,Lanus,1,1,E
